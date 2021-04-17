@@ -1,0 +1,1929 @@
+{
+    "NSE:ADANIPORTS": {
+        "instrument_token": 3861249,
+        "last_price": 727.9,
+        "max_price": 728.5,
+        "max_price_date": "2021-04-01 12:15:01.949513",
+        "max_price_list": [
+            718.5,
+            716.4,
+            728.5
+        ],
+        "min_price": 700.5,
+        "min_price_date": "2021-03-30 09:25:01.176183",
+        "min_price_list": [
+            700.5,
+            701.55,
+            705.3
+        ]
+    },
+    "NSE:ADANIPOWER": {
+        "instrument_token": 4451329,
+        "last_price": 89.3,
+        "max_price": 95.2,
+        "max_price_date": "2021-03-30 09:15:00.954567",
+        "max_price_list": [
+            95.2,
+            85.05,
+            89.3
+        ],
+        "min_price": 81.8,
+        "min_price_date": "2021-04-01 09:30:01.764820",
+        "min_price_list": [
+            85.5,
+            83.25,
+            81.8
+        ]
+    },
+    "NSE:ADANITRANS": {
+        "instrument_token": 2615553,
+        "last_price": 964.5,
+        "max_price": 964.5,
+        "max_price_date": "2021-04-01 13:30:01.017001",
+        "max_price_list": [
+            917.8,
+            922.35,
+            964.5
+        ],
+        "min_price": 862.3,
+        "min_price_date": "2021-03-30 15:15:01.143188",
+        "min_price_list": [
+            862.3,
+            888,
+            921
+        ]
+    },
+    "NSE:ALKEM": {
+        "instrument_token": 2995969,
+        "last_price": 2757.5,
+        "max_price": 2787.95,
+        "max_price_date": "2021-03-31 11:00:01.299609",
+        "max_price_list": [
+            2753,
+            2787.95,
+            2783.95
+        ],
+        "min_price": 2650.05,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            2650.05,
+            2728.3,
+            2740.85
+        ]
+    },
+    "NSE:ANUP": {
+        "instrument_token": 2307585,
+        "last_price": 586,
+        "max_price": 601.2,
+        "max_price_date": "2021-04-01 10:30:01.774969",
+        "max_price_list": [
+            580,
+            585,
+            601.2
+        ],
+        "min_price": 557.25,
+        "min_price_date": "2021-03-30 11:05:01.709391",
+        "min_price_list": [
+            557.25,
+            562.15,
+            578
+        ]
+    },
+    "NSE:ASHOKLEY": {
+        "instrument_token": 54273,
+        "last_price": 114.65,
+        "max_price": 115.85,
+        "max_price_date": "2021-03-31 10:35:01.249945",
+        "max_price_list": [
+            115.65,
+            115.85,
+            115.25
+        ],
+        "min_price": 111.75,
+        "min_price_date": "2021-03-30 13:25:00.911774",
+        "min_price_list": [
+            111.75,
+            113.15,
+            113.75
+        ]
+    },
+    "NSE:AXISBANK": {
+        "instrument_token": 1510401,
+        "last_price": 705.7,
+        "max_price": 712,
+        "max_price_date": "2021-03-30 11:20:01.098690",
+        "max_price_list": [
+            712,
+            704.85,
+            706.5
+        ],
+        "min_price": 691.9,
+        "min_price_date": "2021-03-30 15:15:01.143188",
+        "min_price_list": [
+            691.9,
+            692.55,
+            696.9
+        ]
+    },
+    "NSE:BANDHANBNK": {
+        "instrument_token": 579329,
+        "last_price": 344.65,
+        "max_price": 351.3,
+        "max_price_date": "2021-03-30 09:25:01.176183",
+        "max_price_list": [
+            351.3,
+            341.8,
+            346.45
+        ],
+        "min_price": 335.7,
+        "min_price_date": "2021-03-30 15:15:01.143188",
+        "min_price_list": [
+            335.7,
+            336.95,
+            340.2
+        ]
+    },
+    "NSE:BANKBARODA": {
+        "instrument_token": 1195009,
+        "last_price": 75,
+        "max_price": 75.45,
+        "max_price_date": "2021-03-31 14:00:02.268453",
+        "max_price_list": [
+            73.75,
+            75.45,
+            75.1
+        ],
+        "min_price": 70.75,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            70.75,
+            72.85,
+            73.55
+        ]
+    },
+    "NSE:BANKINDIA": {
+        "instrument_token": 1214721,
+        "last_price": 69.5,
+        "max_price": 71.8,
+        "max_price_date": "2021-04-01 09:25:01.762719",
+        "max_price_list": [
+            70.5,
+            70.7,
+            71.8
+        ],
+        "min_price": 67.5,
+        "min_price_date": "2021-03-31 15:25:02.025592",
+        "min_price_list": [
+            69.15,
+            67.5,
+            69.1
+        ]
+    },
+    "NSE:BECTORFOOD": {
+        "instrument_token": 416769,
+        "last_price": 343.8,
+        "max_price": 344.25,
+        "max_price_date": "2021-04-01 12:55:00.847923",
+        "max_price_list": [
+            342.5,
+            343.95,
+            344.25
+        ],
+        "min_price": 334.45,
+        "min_price_date": "2021-03-31 15:05:01.664907",
+        "min_price_list": [
+            337,
+            334.45,
+            339
+        ]
+    },
+    "NSE:BHARTIARTL": {
+        "instrument_token": 2714625,
+        "last_price": 520.9,
+        "max_price": 524.85,
+        "max_price_date": "2021-03-31 11:15:00.870225",
+        "max_price_list": [
+            524.35,
+            524.85,
+            521.25
+        ],
+        "min_price": 515.3,
+        "min_price_date": "2021-04-01 11:20:01.287631",
+        "min_price_list": [
+            520.3,
+            516.6,
+            515.3
+        ]
+    },
+    "NSE:BHEL": {
+        "instrument_token": 112129,
+        "last_price": 50.75,
+        "max_price": 51.05,
+        "max_price_date": "2021-04-01 12:15:01.949513",
+        "max_price_list": [
+            49.65,
+            49.5,
+            51.05
+        ],
+        "min_price": 48.35,
+        "min_price_date": "2021-03-30 13:10:01.337340",
+        "min_price_list": [
+            48.35,
+            48.65,
+            49.1
+        ]
+    },
+    "NSE:BLISSGVS": {
+        "instrument_token": 4931841,
+        "last_price": 101.35,
+        "max_price": 103.8,
+        "max_price_date": "2021-03-30 09:10:01.773838",
+        "max_price_list": [
+            103.8,
+            101.05,
+            102.45
+        ],
+        "min_price": 98.05,
+        "min_price_date": "2021-03-31 15:30:01.994011",
+        "min_price_list": [
+            100.05,
+            98.05,
+            99.55
+        ]
+    },
+    "NSE:BPCL": {
+        "instrument_token": 134657,
+        "last_price": 432.55,
+        "max_price": 433.7,
+        "max_price_date": "2021-03-30 15:25:01.406304",
+        "max_price_list": [
+            433.7,
+            430.45,
+            432.55
+        ],
+        "min_price": 424.6,
+        "min_price_date": "2021-03-30 14:30:01.681606",
+        "min_price_list": [
+            424.6,
+            425.8,
+            428.2
+        ]
+    },
+    "NSE:BSOFT": {
+        "instrument_token": 1790465,
+        "last_price": 262.05,
+        "max_price": 267.95,
+        "max_price_date": "2021-04-01 09:40:01.748796",
+        "max_price_list": [
+            254.9,
+            258.5,
+            267.95
+        ],
+        "min_price": 249.65,
+        "min_price_date": "2021-03-30 13:35:01.341853",
+        "min_price_list": [
+            249.65,
+            249.8,
+            261.4
+        ]
+    },
+    "NSE:CANFINHOME": {
+        "instrument_token": 149249,
+        "last_price": 603.5,
+        "max_price": 615.6,
+        "max_price_date": "2021-04-01 09:15:01.712679",
+        "max_price_list": [
+            602,
+            615.6,
+            613.75
+        ],
+        "min_price": 575.95,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            575.95,
+            587,
+            602.65
+        ]
+    },
+    "NSE:CARERATING": {
+        "instrument_token": 7452929,
+        "last_price": 427,
+        "max_price": 431.5,
+        "max_price_date": "2021-04-01 10:20:02.044772",
+        "max_price_list": [
+            426.25,
+            419.45,
+            431.5
+        ],
+        "min_price": 411,
+        "min_price_date": "2021-03-31 15:05:01.664907",
+        "min_price_list": [
+            414,
+            411,
+            418.4
+        ]
+    },
+    "NSE:CASTROLIND": {
+        "instrument_token": 320001,
+        "last_price": 124.4,
+        "max_price": 126.15,
+        "max_price_date": "2021-04-01 10:15:01.234448",
+        "max_price_list": [
+            125.3,
+            125.7,
+            126.15
+        ],
+        "min_price": 122.5,
+        "min_price_date": "2021-03-31 13:20:02.121246",
+        "min_price_list": [
+            123,
+            122.5,
+            124.1
+        ]
+    },
+    "NSE:CDSL": {
+        "instrument_token": 5420545,
+        "last_price": 664.45,
+        "max_price": 673.35,
+        "max_price_date": "2021-03-31 10:00:01.499642",
+        "max_price_list": [
+            673.35,
+            668,
+            668.75
+        ],
+        "min_price": 644.8,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            644.8,
+            654.1,
+            662.1
+        ]
+    },
+    "NSE:CENTRALBK": {
+        "instrument_token": 3812865,
+        "last_price": 17.1,
+        "max_price": 17.1,
+        "max_price_date": "2021-04-01 09:20:01.368914",
+        "max_price_list": [
+            16.6,
+            17.1,
+            17.1
+        ],
+        "min_price": 16.05,
+        "min_price_date": "2021-03-30 12:10:01.961661",
+        "min_price_list": [
+            16.05,
+            16.3,
+            16.85
+        ]
+    },
+    "NSE:CHAMBLFERT": {
+        "instrument_token": 163073,
+        "last_price": 231.5,
+        "max_price": 233.2,
+        "max_price_date": "2021-04-01 12:05:01.520103",
+        "max_price_list": [
+            230,
+            230.05,
+            233.2
+        ],
+        "min_price": 223.7,
+        "min_price_date": "2021-03-30 10:35:01.737749",
+        "min_price_list": [
+            223.7,
+            226.85,
+            230.35
+        ]
+    },
+    "NSE:CIPLA": {
+        "instrument_token": 177665,
+        "last_price": 821.75,
+        "max_price": 823.35,
+        "max_price_date": "2021-03-31 12:45:01.112574",
+        "max_price_list": [
+            817.55,
+            823.35,
+            821.75
+        ],
+        "min_price": 809.1,
+        "min_price_date": "2021-03-31 09:15:01.750617",
+        "min_price_list": [
+            809.1,
+            811,
+            812.9
+        ]
+    },
+    "NSE:COALINDIA": {
+        "instrument_token": 5215745,
+        "last_price": 131.6,
+        "max_price": 133.6,
+        "max_price_date": "2021-03-30 15:25:01.406304",
+        "max_price_list": [
+            133.6,
+            131.55,
+            131.9
+        ],
+        "min_price": 129.6,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            129.6,
+            130.1,
+            130.95
+        ]
+    },
+    "NSE:CROMPTON": {
+        "instrument_token": 4376065,
+        "last_price": 389.45,
+        "max_price": 397.85,
+        "max_price_date": "2021-03-31 15:15:02.068865",
+        "max_price_list": [
+            389,
+            397.85,
+            396.8
+        ],
+        "min_price": 377.85,
+        "min_price_date": "2021-03-30 13:45:01.078862",
+        "min_price_list": [
+            377.85,
+            380.1,
+            383.75
+        ]
+    },
+    "NSE:DABUR": {
+        "instrument_token": 197633,
+        "last_price": 540.4,
+        "max_price": 543.25,
+        "max_price_date": "2021-04-01 10:15:01.234448",
+        "max_price_list": [
+            540.7,
+            542.75,
+            543.25
+        ],
+        "min_price": 529.8,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            529.8,
+            537.15,
+            538.2
+        ]
+    },
+    "NSE:DICIND": {
+        "instrument_token": 179969,
+        "last_price": 392,
+        "max_price": 398.55,
+        "max_price_date": "2021-03-30 09:20:01.175946",
+        "max_price_list": [
+            398.55,
+            394,
+            397.55
+        ],
+        "min_price": 389,
+        "min_price_date": "2021-03-30 15:30:02.741520",
+        "min_price_list": [
+            389,
+            391.25,
+            391.45
+        ]
+    },
+    "NSE:DIVISLAB": {
+        "instrument_token": 2800641,
+        "last_price": 3637.05,
+        "max_price": 3640,
+        "max_price_date": "2021-03-31 15:05:01.664907",
+        "max_price_list": [
+            3628,
+            3640,
+            3637.05
+        ],
+        "min_price": 3464.95,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            3464.95,
+            3586.15,
+            3609
+        ]
+    },
+    "NSE:DRREDDY": {
+        "instrument_token": 225537,
+        "last_price": 4573.3,
+        "max_price": 4573.3,
+        "max_price_date": "2021-04-01 13:30:01.017001",
+        "max_price_list": [
+            4536,
+            4551,
+            4573.3
+        ],
+        "min_price": 4406,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            4406,
+            4495.7,
+            4526
+        ]
+    },
+    "NSE:EDELWEISS": {
+        "instrument_token": 3870465,
+        "last_price": 66.45,
+        "max_price": 70.5,
+        "max_price_date": "2021-03-30 09:10:01.773838",
+        "max_price_list": [
+            70.5,
+            65.25,
+            66.45
+        ],
+        "min_price": 63.15,
+        "min_price_date": "2021-04-01 09:15:01.712679",
+        "min_price_list": [
+            64.7,
+            63.15,
+            64
+        ]
+    },
+    "NSE:EICHERMOT": {
+        "instrument_token": 232961,
+        "last_price": 2617,
+        "max_price": 2648,
+        "max_price_date": "2021-03-30 15:30:02.741520",
+        "max_price_list": [
+            2648,
+            2645.5,
+            2643.9
+        ],
+        "min_price": 2591.55,
+        "min_price_date": "2021-04-01 12:25:00.673126",
+        "min_price_list": [
+            2604.9,
+            2601,
+            2591.55
+        ]
+    },
+    "NSE:EMAMILTD": {
+        "instrument_token": 3460353,
+        "last_price": 482.8,
+        "max_price": 500,
+        "max_price_date": "2021-03-30 15:25:01.406304",
+        "max_price_list": [
+            500,
+            488.85,
+            485.45
+        ],
+        "min_price": 470.85,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            470.85,
+            477.25,
+            482.15
+        ]
+    },
+    "NSE:EXIDEIND": {
+        "instrument_token": 173057,
+        "last_price": 185.6,
+        "max_price": 187.5,
+        "max_price_date": "2021-03-31 09:15:01.750617",
+        "max_price_list": [
+            187.5,
+            187.5,
+            186
+        ],
+        "min_price": 182.4,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            182.4,
+            183.45,
+            184.5
+        ]
+    },
+    "NSE:FEDERALBNK": {
+        "instrument_token": 261889,
+        "last_price": 77.55,
+        "max_price": 78.15,
+        "max_price_date": "2021-03-30 10:20:01.496134",
+        "max_price_list": [
+            78.15,
+            76.6,
+            77.9
+        ],
+        "min_price": 75.5,
+        "min_price_date": "2021-03-31 11:40:01.430793",
+        "min_price_list": [
+            75.65,
+            75.5,
+            76.55
+        ]
+    },
+    "NSE:FINPIPE": {
+        "instrument_token": 266497,
+        "last_price": 652.5,
+        "max_price": 658.6,
+        "max_price_date": "2021-04-01 09:45:01.285573",
+        "max_price_list": [
+            641.5,
+            649.1,
+            658.6
+        ],
+        "min_price": 607,
+        "min_price_date": "2021-03-30 15:00:01.863126",
+        "min_price_list": [
+            607,
+            631.5,
+            650.3
+        ]
+    },
+    "NSE:GAIL": {
+        "instrument_token": 1207553,
+        "last_price": 138.25,
+        "max_price": 138.4,
+        "max_price_date": "2021-04-01 12:35:01.111958",
+        "max_price_list": [
+            136.65,
+            137.45,
+            138.4
+        ],
+        "min_price": 131.75,
+        "min_price_date": "2021-03-30 15:05:01.194569",
+        "min_price_list": [
+            131.75,
+            135.3,
+            135.45
+        ]
+    },
+    "NSE:GODREJAGRO": {
+        "instrument_token": 36865,
+        "last_price": 520,
+        "max_price": 529.05,
+        "max_price_date": "2021-04-01 09:20:01.368914",
+        "max_price_list": [
+            515.95,
+            529.05,
+            527.55
+        ],
+        "min_price": 490.65,
+        "min_price_date": "2021-03-30 09:20:01.175946",
+        "min_price_list": [
+            490.65,
+            511.75,
+            517.05
+        ]
+    },
+    "NSE:GODREJCP": {
+        "instrument_token": 2585345,
+        "last_price": 730.1,
+        "max_price": 733.85,
+        "max_price_date": "2021-04-01 09:50:01.755243",
+        "max_price_list": [
+            730,
+            733.5,
+            733.85
+        ],
+        "min_price": 710.25,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            710.25,
+            720,
+            727.2
+        ]
+    },
+    "NSE:GRANULES": {
+        "instrument_token": 3039233,
+        "last_price": 308.9,
+        "max_price": 314.15,
+        "max_price_date": "2021-03-31 09:25:00.971152",
+        "max_price_list": [
+            314.15,
+            308.45,
+            309.55
+        ],
+        "min_price": 301.15,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            301.15,
+            302.5,
+            305
+        ]
+    },
+    "NSE:GRASIM": {
+        "instrument_token": 315393,
+        "last_price": 1448.5,
+        "max_price": 1462,
+        "max_price_date": "2021-04-01 09:15:01.712679",
+        "max_price_list": [
+            1433.8,
+            1462,
+            1459.55
+        ],
+        "min_price": 1416.6,
+        "min_price_date": "2021-03-31 09:15:01.750617",
+        "min_price_list": [
+            1416.6,
+            1430,
+            1439.3
+        ]
+    },
+    "NSE:GREAVESCOT": {
+        "instrument_token": 316161,
+        "last_price": 132.35,
+        "max_price": 133.35,
+        "max_price_date": "2021-04-01 12:55:00.847923",
+        "max_price_list": [
+            132.4,
+            131.35,
+            133.35
+        ],
+        "min_price": 124.6,
+        "min_price_date": "2021-03-30 13:05:01.615449",
+        "min_price_list": [
+            124.6,
+            127,
+            129.3
+        ]
+    },
+    "NSE:HCLTECH": {
+        "instrument_token": 1850625,
+        "last_price": 996,
+        "max_price": 996.2,
+        "max_price_date": "2021-03-30 14:10:02.268731",
+        "max_price_list": [
+            996.2
+        ],
+        "min_price": 996,
+        "min_price_date": "2021-03-30 14:15:02.349126",
+        "min_price_list": [
+            996
+        ]
+    },
+    "NSE:HDFC": {
+        "instrument_token": 340481,
+        "last_price": 2517.7,
+        "max_price": 2614,
+        "max_price_date": "2021-03-30 14:25:01.587607",
+        "max_price_list": [
+            2614,
+            2527.5,
+            2521
+        ],
+        "min_price": 2481.75,
+        "min_price_date": "2021-04-01 10:55:01.140173",
+        "min_price_list": [
+            2529,
+            2495.2,
+            2481.75
+        ]
+    },
+    "NSE:HDFCBANK": {
+        "instrument_token": 341249,
+        "last_price": 1482.05,
+        "max_price": 1559.05,
+        "max_price_date": "2021-03-30 15:15:01.143188",
+        "max_price_list": [
+            1559.05,
+            1506.4,
+            1492
+        ],
+        "min_price": 1474.2,
+        "min_price_date": "2021-04-01 10:55:01.140173",
+        "min_price_list": [
+            1506.15,
+            1489.2,
+            1474.2
+        ]
+    },
+    "NSE:HDFCLIFE": {
+        "instrument_token": 119553,
+        "last_price": 691.3,
+        "max_price": 699.3,
+        "max_price_date": "2021-04-01 09:15:01.712679",
+        "max_price_list": [
+            689.55,
+            699.3,
+            691.3
+        ],
+        "min_price": 671.7,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            671.7,
+            684.9,
+            683.25
+        ]
+    },
+    "NSE:HINDALCO": {
+        "instrument_token": 348929,
+        "last_price": 344.5,
+        "max_price": 348.25,
+        "max_price_date": "2021-04-01 12:40:02.505215",
+        "max_price_list": [
+            332.1,
+            335.05,
+            348.25
+        ],
+        "min_price": 323.1,
+        "min_price_date": "2021-03-31 09:10:00.686046",
+        "min_price_list": [
+            323.1,
+            326.1,
+            330.8
+        ]
+    },
+    "NSE:HINDCOPPER": {
+        "instrument_token": 4592385,
+        "last_price": 122.55,
+        "max_price": 126.75,
+        "max_price_date": "2021-03-30 09:35:01.441157",
+        "max_price_list": [
+            126.75,
+            123.8,
+            124.15
+        ],
+        "min_price": 119.2,
+        "min_price_date": "2021-03-31 15:30:01.994011",
+        "min_price_list": [
+            120.95,
+            119.2,
+            120.75
+        ]
+    },
+    "NSE:IBREALEST": {
+        "instrument_token": 3699201,
+        "last_price": 89.95,
+        "max_price": 90.7,
+        "max_price_date": "2021-04-01 11:45:01.984857",
+        "max_price_list": [
+            84.75,
+            82.6,
+            90.7
+        ],
+        "min_price": 78.95,
+        "min_price_date": "2021-03-30 12:45:01.319080",
+        "min_price_list": [
+            78.95,
+            79.2,
+            82.25
+        ]
+    },
+    "NSE:IBULHSGFIN": {
+        "instrument_token": 7712001,
+        "last_price": 199.15,
+        "max_price": 201,
+        "max_price_date": "2021-03-30 09:10:01.773838",
+        "max_price_list": [
+            201,
+            200.3,
+            199.45
+        ],
+        "min_price": 193.75,
+        "min_price_date": "2021-03-30 13:10:01.337340",
+        "min_price_list": [
+            193.75,
+            193.95,
+            197.15
+        ]
+    },
+    "NSE:ICICIBANK": {
+        "instrument_token": 1270529,
+        "last_price": 585.75,
+        "max_price": 592.25,
+        "max_price_date": "2021-03-30 15:25:01.406304",
+        "max_price_list": [
+            592.25,
+            587.55,
+            586.35
+        ],
+        "min_price": 578.55,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            578.55,
+            579.55,
+            580.85
+        ]
+    },
+    "NSE:ICICIGI": {
+        "instrument_token": 5573121,
+        "last_price": 1436,
+        "max_price": 1445.7,
+        "max_price_date": "2021-03-31 15:05:01.664907",
+        "max_price_list": [
+            1440.25,
+            1445.7,
+            1442.2
+        ],
+        "min_price": 1400,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            1400,
+            1420.5,
+            1412
+        ]
+    },
+    "NSE:IDEA": {
+        "instrument_token": 3677697,
+        "last_price": 9.5,
+        "max_price": 9.65,
+        "max_price_date": "2021-03-31 10:05:01.834767",
+        "max_price_list": [
+            9.65,
+            9.6,
+            9.5
+        ],
+        "min_price": 9,
+        "min_price_date": "2021-03-30 14:20:02.628631",
+        "min_price_list": [
+            9,
+            9.2,
+            9.25
+        ]
+    },
+    "NSE:IDFCFIRSTB": {
+        "instrument_token": 2863105,
+        "last_price": 56.65,
+        "max_price": 59.9,
+        "max_price_date": "2021-03-30 10:55:00.905639",
+        "max_price_list": [
+            59.9,
+            57.25,
+            57.65
+        ],
+        "min_price": 55.5,
+        "min_price_date": "2021-03-31 14:30:02.039767",
+        "min_price_list": [
+            57.45,
+            55.5,
+            56.2
+        ]
+    },
+    "NSE:INDUSINDBK": {
+        "instrument_token": 1346049,
+        "last_price": 969.2,
+        "max_price": 976.85,
+        "max_price_date": "2021-03-30 14:25:01.587607",
+        "max_price_list": [
+            976.85,
+            971.75,
+            976
+        ],
+        "min_price": 953.8,
+        "min_price_date": "2021-03-31 13:30:01.806853",
+        "min_price_list": [
+            956,
+            953.8,
+            960.45
+        ]
+    },
+    "NSE:INFY": {
+        "instrument_token": 408065,
+        "last_price": 1385.2,
+        "max_price": 1398.6,
+        "max_price_date": "2021-03-30 14:20:02.628631",
+        "max_price_list": [
+            1398.6,
+            1386,
+            1390.35,
+            1385.2
+        ],
+        "min_price": 1336.2,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            1336.2,
+            1365.25,
+            1372.5,
+            1385.2
+        ]
+    },
+    "NSE:IOB": {
+        "instrument_token": 2393089,
+        "last_price": 16.95,
+        "max_price": 17.3,
+        "max_price_date": "2021-04-01 09:15:01.712679",
+        "max_price_list": [
+            16.25,
+            17.3,
+            17.15
+        ],
+        "min_price": 15.7,
+        "min_price_date": "2021-03-30 13:00:01.986347",
+        "min_price_list": [
+            15.7,
+            15.95,
+            16.7
+        ]
+    },
+    "NSE:IOC": {
+        "instrument_token": 415745,
+        "last_price": 92.2,
+        "max_price": 92.3,
+        "max_price_date": "2021-03-31 12:45:01.112574",
+        "max_price_list": [
+            92.2,
+            92.3,
+            92.25
+        ],
+        "min_price": 90.6,
+        "min_price_date": "2021-03-30 14:25:01.587607",
+        "min_price_list": [
+            90.6,
+            91.65,
+            91.35
+        ]
+    },
+    "NSE:ISEC": {
+        "instrument_token": 637185,
+        "last_price": 392.1,
+        "max_price": 398,
+        "max_price_date": "2021-03-30 09:10:01.773838",
+        "max_price_list": [
+            398,
+            391.25,
+            395.15
+        ],
+        "min_price": 377.5,
+        "min_price_date": "2021-03-31 10:05:01.834767",
+        "min_price_list": [
+            377.5,
+            380,
+            386.9
+        ]
+    },
+    "NSE:ITC": {
+        "instrument_token": 424961,
+        "last_price": 219.9,
+        "max_price": 220.2,
+        "max_price_date": "2021-04-01 10:05:01.108501",
+        "max_price_list": [
+            215.95,
+            219.9,
+            220.2
+        ],
+        "min_price": 210.85,
+        "min_price_date": "2021-03-30 13:00:01.986347",
+        "min_price_list": [
+            210.85,
+            215.55,
+            217.4
+        ]
+    },
+    "NSE:ITI": {
+        "instrument_token": 428801,
+        "last_price": 117,
+        "max_price": 117.4,
+        "max_price_date": "2021-03-30 09:30:01.642660",
+        "max_price_list": [
+            117.4,
+            116.4,
+            117.1
+        ],
+        "min_price": 114.5,
+        "min_price_date": "2021-03-31 15:30:01.994011",
+        "min_price_list": [
+            114.95,
+            114.5,
+            115.95
+        ]
+    },
+    "NSE:JSWSTEEL": {
+        "instrument_token": 3001089,
+        "last_price": 501.6,
+        "max_price": 507.1,
+        "max_price_date": "2021-04-01 12:10:01.493546",
+        "max_price_list": [
+            472.4,
+            473.45,
+            507.1
+        ],
+        "min_price": 465.1,
+        "min_price_date": "2021-03-30 14:50:01.102813",
+        "min_price_list": [
+            465.1,
+            466.6,
+            476.65
+        ]
+    },
+    "NSE:JYOTHYLAB": {
+        "instrument_token": 3877377,
+        "last_price": 140.6,
+        "max_price": 141,
+        "max_price_date": "2021-04-01 10:05:01.108501",
+        "max_price_list": [
+            138.9,
+            138.5,
+            141
+        ],
+        "min_price": 136.05,
+        "min_price_date": "2021-03-31 14:00:02.268453",
+        "min_price_list": [
+            136.1,
+            136.05,
+            138.45
+        ]
+    },
+    "NSE:KARURVYSYA": {
+        "instrument_token": 470529,
+        "last_price": 57.05,
+        "max_price": 57.1,
+        "max_price_date": "2021-04-01 12:40:02.505215",
+        "max_price_list": [
+            56.7,
+            56.45,
+            57.1
+        ],
+        "min_price": 54.85,
+        "min_price_date": "2021-03-30 14:05:02.014847",
+        "min_price_list": [
+            54.85,
+            55,
+            56.2
+        ]
+    },
+    "NSE:KEI": {
+        "instrument_token": 3407361,
+        "last_price": 528,
+        "max_price": 530.35,
+        "max_price_date": "2021-03-30 15:25:01.406304",
+        "max_price_list": [
+            530.35,
+            525.3,
+            530.25
+        ],
+        "min_price": 518.6,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            518.6,
+            519,
+            522.3
+        ]
+    },
+    "NSE:KIRLFER": {
+        "instrument_token": 3703297,
+        "last_price": 171,
+        "max_price": 172.95,
+        "max_price_date": "2021-04-01 12:15:01.949513",
+        "max_price_list": [
+            166.05,
+            166.1,
+            172.95
+        ],
+        "min_price": 160.85,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            160.85,
+            162.6,
+            165.85
+        ]
+    },
+    "NSE:KIRLOSENG": {
+        "instrument_token": 5359617,
+        "last_price": 171.5,
+        "max_price": 173.75,
+        "max_price_date": "2021-04-01 09:55:01.138147",
+        "max_price_list": [
+            171.95,
+            166.7,
+            173.75
+        ],
+        "min_price": 162.9,
+        "min_price_date": "2021-03-31 15:30:01.994011",
+        "min_price_list": [
+            166.35,
+            162.9,
+            168
+        ]
+    },
+    "NSE:KOTAKBANK": {
+        "instrument_token": 492033,
+        "last_price": 1783.15,
+        "max_price": 1788,
+        "max_price_date": "2021-04-01 13:20:01.708060",
+        "max_price_list": [
+            1786.35,
+            1773.25,
+            1788
+        ],
+        "min_price": 1745.6,
+        "min_price_date": "2021-03-31 14:30:02.039767",
+        "min_price_list": [
+            1756.05,
+            1745.6,
+            1751.15
+        ]
+    },
+    "NSE:LICHSGFIN": {
+        "instrument_token": 511233,
+        "last_price": 432.15,
+        "max_price": 432.55,
+        "max_price_date": "2021-04-01 12:55:00.847923",
+        "max_price_list": [
+            425.6,
+            431.3,
+            432.55
+        ],
+        "min_price": 415.6,
+        "min_price_date": "2021-03-30 13:10:01.337340",
+        "min_price_list": [
+            415.6,
+            420.55,
+            425
+        ]
+    },
+    "NSE:LT": {
+        "instrument_token": 2939649,
+        "last_price": 1442.95,
+        "max_price": 1442.95,
+        "max_price_date": "2021-04-01 13:30:01.017001",
+        "max_price_list": [
+            1428.75,
+            1434.65,
+            1442.95
+        ],
+        "min_price": 1411,
+        "min_price_date": "2021-03-31 13:30:01.806853",
+        "min_price_list": [
+            1414.5,
+            1411,
+            1422.6
+        ]
+    },
+    "NSE:M&M": {
+        "instrument_token": 519937,
+        "last_price": 792,
+        "max_price": 804.05,
+        "max_price_date": "2021-03-31 10:00:01.499642",
+        "max_price_list": [
+            804.05,
+            804.05,
+            802.7
+        ],
+        "min_price": 782.15,
+        "min_price_date": "2021-04-01 11:20:01.287631",
+        "min_price_list": [
+            791.55,
+            792.45,
+            782.15
+        ]
+    },
+    "NSE:MAHABANK": {
+        "instrument_token": 2912513,
+        "last_price": 21.4,
+        "max_price": 21.55,
+        "max_price_date": "2021-04-01 09:20:01.368914",
+        "max_price_list": [
+            21.2,
+            21.55,
+            21.55
+        ],
+        "min_price": 20.3,
+        "min_price_date": "2021-03-30 11:15:01.816774",
+        "min_price_list": [
+            20.3,
+            20.75,
+            21.1
+        ]
+    },
+    "NSE:MARICO": {
+        "instrument_token": 1041153,
+        "last_price": 409,
+        "max_price": 412.3,
+        "max_price_date": "2021-03-31 15:10:01.052605",
+        "max_price_list": [
+            411.05,
+            412.3,
+            410.25
+        ],
+        "min_price": 401.85,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            401.85,
+            408.5,
+            408.2
+        ]
+    },
+    "NSE:MARUTI": {
+        "instrument_token": 2815745,
+        "last_price": 6922.1,
+        "max_price": 6990,
+        "max_price_date": "2021-04-01 09:25:01.762719",
+        "max_price_list": [
+            6906.65,
+            6948.75,
+            6990
+        ],
+        "min_price": 6760.9,
+        "min_price_date": "2021-03-30 09:20:01.175946",
+        "min_price_list": [
+            6760.9,
+            6844.6,
+            6875.1
+        ]
+    },
+    "NSE:MINDAIND": {
+        "instrument_token": 3623425,
+        "last_price": 534.4,
+        "max_price": 564.95,
+        "max_price_date": "2021-03-30 09:15:00.954567",
+        "max_price_list": [
+            564.95,
+            554.85,
+            549
+        ],
+        "min_price": 532.3,
+        "min_price_date": "2021-04-01 13:20:01.708060",
+        "min_price_list": [
+            542.15,
+            539,
+            532.3
+        ]
+    },
+    "NSE:MOLDTKPAC": {
+        "instrument_token": 1718529,
+        "last_price": 393,
+        "max_price": 403,
+        "max_price_date": "2021-03-31 09:10:00.686046",
+        "max_price_list": [
+            403,
+            401.95,
+            396.9
+        ],
+        "min_price": 389.8,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            389.8,
+            392,
+            390.1
+        ]
+    },
+    "NSE:MSTCLTD": {
+        "instrument_token": 2395137,
+        "last_price": 303.9,
+        "max_price": 309.85,
+        "max_price_date": "2021-04-01 09:50:01.755243",
+        "max_price_list": [
+            304.8,
+            303.2,
+            309.85
+        ],
+        "min_price": 294.75,
+        "min_price_date": "2021-03-30 15:20:02.105340",
+        "min_price_list": [
+            294.75,
+            296,
+            300.6
+        ]
+    },
+    "NSE:NOCIL": {
+        "instrument_token": 625153,
+        "last_price": 180.6,
+        "max_price": 182.5,
+        "max_price_date": "2021-04-01 09:35:01.792703",
+        "max_price_list": [
+            180,
+            178.65,
+            182.5
+        ],
+        "min_price": 173,
+        "min_price_date": "2021-03-30 13:10:01.337340",
+        "min_price_list": [
+            173,
+            174.15,
+            178.8
+        ]
+    },
+    "NSE:NTPC": {
+        "instrument_token": 2977281,
+        "last_price": 107.95,
+        "max_price": 108.65,
+        "max_price_date": "2021-04-01 10:10:01.790464",
+        "max_price_list": [
+            108.6,
+            108.25,
+            108.65
+        ],
+        "min_price": 106.35,
+        "min_price_date": "2021-03-31 14:45:02.870906",
+        "min_price_list": [
+            107.05,
+            106.35,
+            106.95
+        ]
+    },
+    "NSE:ONGC": {
+        "instrument_token": 633601,
+        "last_price": 103.05,
+        "max_price": 104.9,
+        "max_price_date": "2021-03-30 14:25:01.587607",
+        "max_price_list": [
+            104.9,
+            103.95,
+            103.1
+        ],
+        "min_price": 102,
+        "min_price_date": "2021-03-31 15:15:02.068865",
+        "min_price_list": [
+            102.55,
+            102,
+            102
+        ]
+    },
+    "NSE:ORIENTCEM": {
+        "instrument_token": 7702785,
+        "last_price": 101.3,
+        "max_price": 101.8,
+        "max_price_date": "2021-04-01 11:35:01.521344",
+        "max_price_list": [
+            99.35,
+            99.5,
+            101.8
+        ],
+        "min_price": 95.95,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            95.95,
+            96.9,
+            98.7
+        ]
+    },
+    "NSE:PNB": {
+        "instrument_token": 2730497,
+        "last_price": 37.5,
+        "max_price": 37.5,
+        "max_price_date": "2021-03-31 12:20:02.885356",
+        "max_price_list": [
+            36.7,
+            37.5,
+            37.5
+        ],
+        "min_price": 35.85,
+        "min_price_date": "2021-03-30 13:10:01.337340",
+        "min_price_list": [
+            35.85,
+            36.4,
+            36.9
+        ]
+    },
+    "NSE:PNBHOUSING": {
+        "instrument_token": 4840449,
+        "last_price": 390.7,
+        "max_price": 390.7,
+        "max_price_date": "2021-04-01 13:30:01.017001",
+        "max_price_list": [
+            384,
+            388.8,
+            390.7
+        ],
+        "min_price": 372.25,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            372.25,
+            373.8,
+            379.5
+        ]
+    },
+    "NSE:POWERGRID": {
+        "instrument_token": 3834113,
+        "last_price": 217.35,
+        "max_price": 223.5,
+        "max_price_date": "2021-03-30 14:15:02.349126",
+        "max_price_list": [
+            223.5,
+            217.05,
+            217.55
+        ],
+        "min_price": 214.6,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            214.6,
+            214.95,
+            214.85
+        ]
+    },
+    "NSE:RAMCOCEM": {
+        "instrument_token": 523009,
+        "last_price": 1017.55,
+        "max_price": 1020.85,
+        "max_price_date": "2021-04-01 12:35:01.111958",
+        "max_price_list": [
+            994,
+            1009.75,
+            1020.85
+        ],
+        "min_price": 958.5,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            958.5,
+            989.55,
+            1003.8
+        ]
+    },
+    "NSE:RAYMOND": {
+        "instrument_token": 731905,
+        "last_price": 367.85,
+        "max_price": 369.05,
+        "max_price_date": "2021-04-01 12:10:01.493546",
+        "max_price_list": [
+            365.5,
+            368.35,
+            369.05
+        ],
+        "min_price": 352.5,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            352.5,
+            357.3,
+            362.5
+        ]
+    },
+    "NSE:SBICARD": {
+        "instrument_token": 4600577,
+        "last_price": 954,
+        "max_price": 954.7,
+        "max_price_date": "2021-04-01 13:25:00.674339",
+        "max_price_list": [
+            952.75,
+            943.15,
+            954.7
+        ],
+        "min_price": 926.3,
+        "min_price_date": "2021-03-31 13:20:02.121246",
+        "min_price_list": [
+            927.25,
+            926.3,
+            940.35
+        ]
+    },
+    "NSE:SBIN": {
+        "instrument_token": 779521,
+        "last_price": 368,
+        "max_price": 368.3,
+        "max_price_date": "2021-04-01 13:25:00.674339",
+        "max_price_list": [
+            363.8,
+            367.4,
+            368.3
+        ],
+        "min_price": 356.6,
+        "min_price_date": "2021-03-30 12:20:01.234841",
+        "min_price_list": [
+            356.6,
+            359.55,
+            363.6
+        ]
+    },
+    "NSE:SPICEJET": {
+        "instrument_token": 2930177,
+        "last_price": 70.85,
+        "max_price": 71.2,
+        "max_price_date": "2021-04-01 10:00:01.724415",
+        "max_price_list": [
+            70.6,
+            70.8,
+            71.2
+        ],
+        "min_price": 68.15,
+        "min_price_date": "2021-03-30 15:00:01.863126",
+        "min_price_list": [
+            68.15,
+            68.9,
+            70.45
+        ]
+    },
+    "NSE:SUNPHARMA": {
+        "instrument_token": 857857,
+        "last_price": 609.2,
+        "max_price": 609.2,
+        "max_price_date": "2021-04-01 13:30:01.017001",
+        "max_price_list": [
+            601.9,
+            605,
+            609.2
+        ],
+        "min_price": 592.6,
+        "min_price_date": "2021-03-30 14:35:00.894876",
+        "min_price_list": [
+            592.6,
+            597.1,
+            598.85
+        ]
+    },
+    "NSE:SYNGENE": {
+        "instrument_token": 2622209,
+        "last_price": 550,
+        "max_price": 558.5,
+        "max_price_date": "2021-04-01 09:25:01.762719",
+        "max_price_list": [
+            539.8,
+            555.85,
+            558.5
+        ],
+        "min_price": 528.25,
+        "min_price_date": "2021-03-30 12:40:02.556322",
+        "min_price_list": [
+            528.25,
+            534.05,
+            548.9
+        ]
+    },
+    "NSE:TATACHEM": {
+        "instrument_token": 871681,
+        "last_price": 788.5,
+        "max_price": 790.5,
+        "max_price_date": "2021-04-01 13:15:01.104195",
+        "max_price_list": [
+            763.5,
+            760.5,
+            790.5
+        ],
+        "min_price": 744.15,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            744.15,
+            751.2,
+            757.05
+        ]
+    },
+    "NSE:TATACOMM": {
+        "instrument_token": 952577,
+        "last_price": 1114.05,
+        "max_price": 1136.8,
+        "max_price_date": "2021-03-30 09:25:01.176183",
+        "max_price_list": [
+            1136.8,
+            1086.75,
+            1121.05
+        ],
+        "min_price": 1061,
+        "min_price_date": "2021-03-31 15:25:02.025592",
+        "min_price_list": [
+            1074.8,
+            1061,
+            1087.6
+        ]
+    },
+    "NSE:TATACONSUM": {
+        "instrument_token": 878593,
+        "last_price": 648,
+        "max_price": 651.15,
+        "max_price_date": "2021-04-01 12:10:01.493546",
+        "max_price_list": [
+            642.95,
+            643.4,
+            651.15
+        ],
+        "min_price": 618,
+        "min_price_date": "2021-03-30 13:40:01.456722",
+        "min_price_list": [
+            618,
+            632.95,
+            642.1
+        ]
+    },
+    "NSE:TATAMOTORS": {
+        "instrument_token": 884737,
+        "last_price": 308.05,
+        "max_price": 308.4,
+        "max_price_date": "2021-04-01 13:25:00.674339",
+        "max_price_list": [
+            307.1,
+            306.45,
+            308.4
+        ],
+        "min_price": 293.2,
+        "min_price_date": "2021-03-30 12:25:01.234878",
+        "min_price_list": [
+            293.2,
+            301.15,
+            303.6
+        ]
+    },
+    "NSE:TATASTEEL": {
+        "instrument_token": 895745,
+        "last_price": 847.7,
+        "max_price": 850,
+        "max_price_date": "2021-04-01 12:15:01.949513",
+        "max_price_list": [
+            814,
+            822.45,
+            850
+        ],
+        "min_price": 766.85,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            766.85,
+            809,
+            821.3
+        ]
+    },
+    "NSE:TCS": {
+        "instrument_token": 2953217,
+        "last_price": 3165,
+        "max_price": 3211.1,
+        "max_price_date": "2021-04-01 09:20:01.368914",
+        "max_price_list": [
+            3185,
+            3211.1,
+            3209.95,
+            3165
+        ],
+        "min_price": 3066.8,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            3066.8,
+            3155.95,
+            3147.5,
+            3165
+        ]
+    },
+    "NSE:TECHM": {
+        "instrument_token": 3465729,
+        "last_price": 992,
+        "max_price": 1023,
+        "max_price_date": "2021-03-31 09:10:00.686046",
+        "max_price_list": [
+            1023,
+            1009.9,
+            1006.95
+        ],
+        "min_price": 988.8,
+        "min_price_date": "2021-04-01 12:40:02.505215",
+        "min_price_list": [
+            1000,
+            990.55,
+            988.8
+        ]
+    },
+    "NSE:THANGAMAYL": {
+        "instrument_token": 4638209,
+        "last_price": 596,
+        "max_price": 606.9,
+        "max_price_date": "2021-03-30 09:10:01.773838",
+        "max_price_list": [
+            606.9,
+            597.45,
+            597.45
+        ],
+        "min_price": 585.15,
+        "min_price_date": "2021-03-31 15:30:01.994011",
+        "min_price_list": [
+            588.5,
+            585.15,
+            586.5
+        ]
+    },
+    "NSE:TITAN": {
+        "instrument_token": 897537,
+        "last_price": 1559.9,
+        "max_price": 1589.9,
+        "max_price_date": "2021-04-01 09:35:01.792703",
+        "max_price_list": [
+            1567.15,
+            1569.25,
+            1589.9
+        ],
+        "min_price": 1541.9,
+        "min_price_date": "2021-03-31 11:00:01.299609",
+        "min_price_list": [
+            1548.3,
+            1541.9,
+            1554.55
+        ]
+    },
+    "NSE:TVSMOTOR": {
+        "instrument_token": 2170625,
+        "last_price": 587.95,
+        "max_price": 592,
+        "max_price_date": "2021-04-01 09:15:01.712679",
+        "max_price_list": [
+            586.75,
+            592,
+            591.2
+        ],
+        "min_price": 564,
+        "min_price_date": "2021-03-30 12:55:00.917101",
+        "min_price_list": [
+            564,
+            580,
+            584
+        ]
+    },
+    "NSE:UBL": {
+        "instrument_token": 4278529,
+        "last_price": 1236,
+        "max_price": 1255,
+        "max_price_date": "2021-03-30 09:20:01.175946",
+        "max_price_list": [
+            1255,
+            1248.5,
+            1249.95
+        ],
+        "min_price": 1224.55,
+        "min_price_date": "2021-03-30 15:20:02.105340",
+        "min_price_list": [
+            1224.55,
+            1234,
+            1231.25
+        ]
+    },
+    "NSE:UNIONBANK": {
+        "instrument_token": 2752769,
+        "last_price": 34.55,
+        "max_price": 34.8,
+        "max_price_date": "2021-03-31 12:20:02.885356",
+        "max_price_list": [
+            34.4,
+            34.8,
+            34.65
+        ],
+        "min_price": 33.7,
+        "min_price_date": "2021-03-30 13:10:01.337340",
+        "min_price_list": [
+            33.7,
+            33.9,
+            34.35
+        ]
+    },
+    "NSE:UPL": {
+        "instrument_token": 2889473,
+        "last_price": 649.95,
+        "max_price": 651.9,
+        "max_price_date": "2021-03-31 14:35:03.701865",
+        "max_price_list": [
+            645.75,
+            651.9,
+            650.5
+        ],
+        "min_price": 585.4,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            585.4,
+            637.7,
+            636.6
+        ]
+    },
+    "NSE:WIPRO": {
+        "instrument_token": 969473,
+        "last_price": 417.4,
+        "max_price": 421.95,
+        "max_price_date": "2021-04-01 09:30:01.764820",
+        "max_price_list": [
+            419.8,
+            419.25,
+            421.95
+        ],
+        "min_price": 403.9,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            403.9,
+            413.6,
+            414.9
+        ]
+    },
+    "NSE:YESBANK": {
+        "instrument_token": 3050241,
+        "last_price": 15.75,
+        "max_price": 16.85,
+        "max_price_date": "2021-03-30 15:15:01.143188",
+        "max_price_list": [
+            16.85,
+            15.9,
+            15.75
+        ],
+        "min_price": 14.05,
+        "min_price_date": "2021-03-30 09:00:05.962372",
+        "min_price_list": [
+            14.05,
+            15.5,
+            15.45
+        ]
+    },
+    "NSE:ZENSARTECH": {
+        "instrument_token": 275457,
+        "last_price": 275.1,
+        "max_price": 284.6,
+        "max_price_date": "2021-03-30 09:30:01.642660",
+        "max_price_list": [
+            284.6,
+            278,
+            275.6
+        ],
+        "min_price": 271.25,
+        "min_price_date": "2021-03-30 12:05:02.203706",
+        "min_price_list": [
+            271.25,
+            273.6,
+            273.6
+        ]
+    },
+    "NSE:ZYDUSWELL": {
+        "instrument_token": 4514561,
+        "last_price": 1970,
+        "max_price": 2002.05,
+        "max_price_date": "2021-03-30 15:25:01.406304",
+        "max_price_list": [
+            2002.05,
+            1987.25,
+            1977.55
+        ],
+        "min_price": 1926.35,
+        "min_price_date": "2021-03-30 12:25:01.234878",
+        "min_price_list": [
+            1926.35,
+            1960,
+            1961.2
+        ]
+    },
+    "date_time": "2021-04-02 09:25:00.566623"
+}

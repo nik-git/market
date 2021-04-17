@@ -1,0 +1,3993 @@
+[
+    {
+        "average_price": 750.25,
+        "count_max_price": 2,
+        "count_min_price": 32,
+        "datetime_max_price": "2021-03-23 10:05:00.848167",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 736.75,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 752.95,
+        "price_day_max_list": [
+            752.95
+        ],
+        "price_day_min": 736.6,
+        "price_day_min_list": [
+            736.6
+        ],
+        "price_diff_day_max_min": [
+            13.55,
+            0,
+            26,
+            26.5,
+            28.5,
+            36.4,
+            16.35
+        ],
+        "price_diff_max_min": 91.95,
+        "price_max": 752.95,
+        "price_min": 661,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 12,
+        "tradingsymbol": "ADANIPORTS"
+    },
+    {
+        "average_price": 76.05,
+        "count_max_price": 18,
+        "count_min_price": 2,
+        "datetime_max_price": "2021-03-23 10:05:00.848167",
+        "datetime_min_price": "2021-03-12 09:20:00.981450",
+        "last_price": 101.65,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 101.65,
+        "price_day_max_list": [
+            101.65
+        ],
+        "price_day_min": 101.65,
+        "price_day_min_list": [
+            101.65
+        ],
+        "price_diff_day_max_min": [
+            6.0,
+            0,
+            1.6,
+            3.5,
+            7.5,
+            3.0,
+            0
+        ],
+        "price_diff_max_min": 27.6,
+        "price_max": 101.65,
+        "price_min": 74.05,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "ADANIPOWER"
+    },
+    {
+        "average_price": 733.05,
+        "count_max_price": 16,
+        "count_min_price": 1,
+        "datetime_max_price": "2021-03-23 11:30:01.907056",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 850.25,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 853.55,
+        "price_day_max_list": [
+            853.55
+        ],
+        "price_day_min": 832.2,
+        "price_day_min_list": [
+            832.2
+        ],
+        "price_diff_day_max_min": [
+            18.3,
+            0,
+            36.05,
+            29.5,
+            51.95,
+            30.05,
+            21.35
+        ],
+        "price_diff_max_min": 132.55,
+        "price_max": 853.55,
+        "price_min": 721,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ADANITRANS"
+    },
+    {
+        "average_price": 2768.88,
+        "count_max_price": 6,
+        "count_min_price": 26,
+        "datetime_max_price": "2021-03-15 09:15:00.985319",
+        "datetime_min_price": "2021-03-23 12:40:01.792507",
+        "last_price": 2598,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 2618.1,
+        "price_day_max_list": [
+            2618.1
+        ],
+        "price_day_min": 2586.6,
+        "price_day_min_list": [
+            2586.6
+        ],
+        "price_diff_day_max_min": [
+            36,
+            0,
+            31.65,
+            25.4,
+            40,
+            35.35,
+            31.5
+        ],
+        "price_diff_max_min": 211.4,
+        "price_max": 2798,
+        "price_min": 2586.6,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "ALKEM"
+    },
+    {
+        "average_price": 131.9,
+        "count_max_price": 1,
+        "count_min_price": 21,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 114.75,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 116.2,
+        "price_day_max_list": [
+            116.2
+        ],
+        "price_day_min": 114.35,
+        "price_day_min_list": [
+            114.35
+        ],
+        "price_diff_day_max_min": [
+            3.0,
+            0,
+            5.9,
+            7.8,
+            7.95,
+            2.7,
+            1.85
+        ],
+        "price_diff_max_min": 16.25,
+        "price_max": 125.1,
+        "price_min": 108.85,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ASHOKLEY"
+    },
+    {
+        "average_price": 720,
+        "count_max_price": 2,
+        "count_min_price": 14,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 729.85,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 736,
+        "price_day_max_list": [
+            736
+        ],
+        "price_day_min": 718.45,
+        "price_day_min_list": [
+            718.45
+        ],
+        "price_diff_day_max_min": [
+            13.3,
+            0,
+            14.65,
+            31.75,
+            22.45,
+            17.0,
+            17.55
+        ],
+        "price_diff_max_min": 67.5,
+        "price_max": 773,
+        "price_min": 705.5,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "AXISBANK"
+    },
+    {
+        "average_price": 41.24,
+        "count_max_price": 11,
+        "count_min_price": 11,
+        "datetime_max_price": "2021-03-18 12:15:02.190506",
+        "datetime_min_price": "2021-03-12 15:30:01.700690",
+        "last_price": 39.01,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 39.16,
+        "price_day_max_list": [
+            39.16
+        ],
+        "price_day_min": 39.01,
+        "price_day_min_list": [
+            39.01
+        ],
+        "price_diff_day_max_min": [
+            0.18,
+            0,
+            0.22,
+            0.51,
+            0.35,
+            0.41,
+            0.15
+        ],
+        "price_diff_max_min": 0.83,
+        "price_max": 39.58,
+        "price_min": 38.75,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "AXISGOLD"
+    },
+    {
+        "average_price": 330,
+        "count_max_price": 8,
+        "count_min_price": 7,
+        "datetime_max_price": "2021-03-23 15:30:02.154939",
+        "datetime_min_price": "2021-03-15 13:05:02.542378",
+        "last_price": 365.2,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 365.2,
+        "price_day_max_list": [
+            365.2
+        ],
+        "price_day_min": 355.15,
+        "price_day_min_list": [
+            355.15
+        ],
+        "price_diff_day_max_min": [
+            4.4,
+            0,
+            6.9,
+            5.4,
+            13.75,
+            8.65,
+            10.05
+        ],
+        "price_diff_max_min": 34.55,
+        "price_max": 365.2,
+        "price_min": 330.65,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "BANDHANBNK"
+    },
+    {
+        "average_price": 75.03,
+        "count_max_price": 1,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 74.55,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 75.05,
+        "price_day_max_list": [
+            75.05
+        ],
+        "price_day_min": 73.5,
+        "price_day_min_list": [
+            73.5
+        ],
+        "price_diff_day_max_min": [
+            2.2,
+            0,
+            3.25,
+            5.1,
+            4.4,
+            2.15,
+            1.55
+        ],
+        "price_diff_max_min": 11.1,
+        "price_max": 80.8,
+        "price_min": 69.7,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 35,
+        "tradingsymbol": "BANKBARODA"
+    },
+    {
+        "average_price": 75.89,
+        "count_max_price": 3,
+        "count_min_price": 25,
+        "datetime_max_price": "2021-03-12 09:35:01.465532",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 75.2,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 75.2,
+        "price_day_max_list": [
+            75.2
+        ],
+        "price_day_min": 69.8,
+        "price_day_min_list": [
+            69.8
+        ],
+        "price_diff_day_max_min": [
+            1.45,
+            0,
+            3.3,
+            5.05,
+            4.1,
+            2.4,
+            5.4
+        ],
+        "price_diff_max_min": 15.6,
+        "price_max": 78.2,
+        "price_min": 62.6,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 200,
+        "tradingsymbol": "BANKINDIA"
+    },
+    {
+        "average_price": 46.08,
+        "count_max_price": 6,
+        "count_min_price": 13,
+        "datetime_max_price": "2021-03-15 09:15:00.985319",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 51.5,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 52.3,
+        "price_day_max_list": [
+            52.3
+        ],
+        "price_day_min": 51.5,
+        "price_day_min_list": [
+            51.5
+        ],
+        "price_diff_day_max_min": [
+            2.3,
+            0,
+            2.95,
+            2.8,
+            2.6,
+            1.1,
+            0.8
+        ],
+        "price_diff_max_min": 6.55,
+        "price_max": 56.05,
+        "price_min": 49.5,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "BHEL"
+    },
+    {
+        "average_price": 259.35,
+        "count_max_price": 13,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-17 09:55:00.725437",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 250,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 253.05,
+        "price_day_max_list": [
+            253.05
+        ],
+        "price_day_min": 247.75,
+        "price_day_min_list": [
+            247.75
+        ],
+        "price_diff_day_max_min": [
+            8.9,
+            0,
+            15.0,
+            11.7,
+            19.15,
+            7.65,
+            5.3
+        ],
+        "price_diff_max_min": 32.6,
+        "price_max": 259.3,
+        "price_min": 226.7,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "BSOFT"
+    },
+    {
+        "average_price": 503,
+        "count_max_price": 11,
+        "count_min_price": 2,
+        "datetime_max_price": "2021-03-23 12:40:01.792507",
+        "datetime_min_price": "2021-03-17 10:55:01.901352",
+        "last_price": 599.6,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 613.5,
+        "price_day_max_list": [
+            613.5
+        ],
+        "price_day_min": 598,
+        "price_day_min_list": [
+            598
+        ],
+        "price_diff_day_max_min": [
+            30.95,
+            0,
+            27.15,
+            8.8,
+            21.7,
+            26.1,
+            15.5
+        ],
+        "price_diff_max_min": 59.85,
+        "price_max": 613.5,
+        "price_min": 553.65,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "CANFINHOME"
+    },
+    {
+        "average_price": 510.9,
+        "count_max_price": 1,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 438.9,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 441.85,
+        "price_day_max_list": [
+            441.85
+        ],
+        "price_day_min": 435.75,
+        "price_day_min_list": [
+            435.75
+        ],
+        "price_diff_day_max_min": [
+            6.6,
+            0,
+            14.55,
+            8.5,
+            21.4,
+            16.45,
+            6.1
+        ],
+        "price_diff_max_min": 33.85,
+        "price_max": 462.6,
+        "price_min": 428.75,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "CARERATING"
+    },
+    {
+        "average_price": 512,
+        "count_max_price": 8,
+        "count_min_price": 7,
+        "datetime_max_price": "2021-03-16 14:40:01.527289",
+        "datetime_min_price": "2021-03-15 12:15:01.843586",
+        "last_price": 638,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 638.5,
+        "price_day_max_list": [
+            638.5
+        ],
+        "price_day_min": 620.5,
+        "price_day_min_list": [
+            620.5
+        ],
+        "price_diff_day_max_min": [
+            33.5,
+            0,
+            19,
+            32.45,
+            27.7,
+            6.65,
+            18.0
+        ],
+        "price_diff_max_min": 62.15,
+        "price_max": 642.5,
+        "price_min": 580.35,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "CDSL"
+    },
+    {
+        "average_price": 19.37,
+        "count_max_price": 3,
+        "count_min_price": 17,
+        "datetime_max_price": "2021-03-15 09:15:00.985319",
+        "datetime_min_price": "2021-03-22 12:25:01.439451",
+        "last_price": 16.65,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 16.65,
+        "price_day_max_list": [
+            16.65
+        ],
+        "price_day_min": 16.25,
+        "price_day_min_list": [
+            16.25
+        ],
+        "price_diff_day_max_min": [
+            0.6,
+            0,
+            0.95,
+            1.15,
+            0.85,
+            0.7,
+            0.4
+        ],
+        "price_diff_max_min": 3.85,
+        "price_max": 19.8,
+        "price_min": 15.95,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 101,
+        "tradingsymbol": "CENTRALBK"
+    },
+    {
+        "average_price": 246.69,
+        "count_max_price": 5,
+        "count_min_price": 16,
+        "datetime_max_price": "2021-03-16 09:00:02.089516",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 226.05,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 228.1,
+        "price_day_max_list": [
+            228.1
+        ],
+        "price_day_min": 223.9,
+        "price_day_min_list": [
+            223.9
+        ],
+        "price_diff_day_max_min": [
+            6.35,
+            0,
+            8.95,
+            15.1,
+            11.35,
+            4.35,
+            4.2
+        ],
+        "price_diff_max_min": 31.85,
+        "price_max": 239.5,
+        "price_min": 207.65,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 52,
+        "tradingsymbol": "CHAMBLFERT"
+    },
+    {
+        "average_price": 22.04,
+        "count_max_price": 5,
+        "count_min_price": 17,
+        "datetime_max_price": "2021-03-12 11:50:01.021349",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 23.13,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 23.24,
+        "price_day_max_list": [
+            23.24
+        ],
+        "price_day_min": 23.05,
+        "price_day_min_list": [
+            23.05
+        ],
+        "price_diff_day_max_min": [
+            0.21,
+            0,
+            0.33,
+            0.93,
+            1.1,
+            0.28,
+            0.19
+        ],
+        "price_diff_max_min": 1.72,
+        "price_max": 24.12,
+        "price_min": 22.4,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 5,
+        "tradingsymbol": "CPSEETF"
+    },
+    {
+        "average_price": 400,
+        "count_max_price": 0,
+        "count_min_price": 26,
+        "datetime_max_price": "",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 382.3,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 386,
+        "price_day_max_list": [
+            386
+        ],
+        "price_day_min": 382.3,
+        "price_day_min_list": [
+            382.3
+        ],
+        "price_diff_day_max_min": [
+            16.45,
+            0,
+            19.0,
+            20.7,
+            28.45,
+            15.45,
+            3.7
+        ],
+        "price_diff_max_min": 45.65,
+        "price_max": 419.5,
+        "price_min": 373.85,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "CROMPTON"
+    },
+    {
+        "average_price": 525,
+        "count_max_price": 9,
+        "count_min_price": 15,
+        "datetime_max_price": "2021-03-23 13:50:02.325786",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 532.8,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 535.35,
+        "price_day_max_list": [
+            535.35
+        ],
+        "price_day_min": 532.8,
+        "price_day_min_list": [
+            532.8
+        ],
+        "price_diff_day_max_min": [
+            7.3,
+            0,
+            5.05,
+            9.35,
+            9.0,
+            7.7,
+            2.55
+        ],
+        "price_diff_max_min": 18.85,
+        "price_max": 535.35,
+        "price_min": 516.5,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "DABUR"
+    },
+    {
+        "average_price": 443.89,
+        "count_max_price": 1,
+        "count_min_price": 8,
+        "datetime_max_price": "2021-03-12 09:35:01.465532",
+        "datetime_min_price": "2021-03-18 14:15:02.557579",
+        "last_price": 397.6,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 405.5,
+        "price_day_max_list": [
+            405.5
+        ],
+        "price_day_min": 397.6,
+        "price_day_min_list": [
+            397.6
+        ],
+        "price_diff_day_max_min": [
+            4,
+            0,
+            5.35,
+            9.95,
+            6.25,
+            9.55,
+            7.9
+        ],
+        "price_diff_max_min": 38.6,
+        "price_max": 429.9,
+        "price_min": 391.3,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 10,
+        "tradingsymbol": "DICIND"
+    },
+    {
+        "average_price": 3812,
+        "count_max_price": 6,
+        "count_min_price": 25,
+        "datetime_max_price": "2021-03-12 12:05:01.353917",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 3489.95,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 3495.4,
+        "price_day_max_list": [
+            3495.4
+        ],
+        "price_day_min": 3451.4,
+        "price_day_min_list": [
+            3451.4
+        ],
+        "price_diff_day_max_min": [
+            47.3,
+            0,
+            34.2,
+            107.7,
+            197.85,
+            63.25,
+            44.0
+        ],
+        "price_diff_max_min": 388.65,
+        "price_max": 3561.85,
+        "price_min": 3173.2,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "DIVISLAB"
+    },
+    {
+        "average_price": 4845,
+        "count_max_price": 1,
+        "count_min_price": 23,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 4362,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 4394.9,
+        "price_day_max_list": [
+            4394.9
+        ],
+        "price_day_min": 4330.6,
+        "price_day_min_list": [
+            4330.6
+        ],
+        "price_diff_day_max_min": [
+            77.75,
+            0,
+            61.8,
+            128.05,
+            143.8,
+            71.75,
+            64.3
+        ],
+        "price_diff_max_min": 369.8,
+        "price_max": 4520,
+        "price_min": 4150.2,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "DRREDDY"
+    },
+    {
+        "average_price": 80.78,
+        "count_max_price": 7,
+        "count_min_price": 8,
+        "datetime_max_price": "2021-03-15 09:30:01.077879",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 82,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 84.9,
+        "price_day_max_list": [
+            84.9
+        ],
+        "price_day_min": 82,
+        "price_day_min_list": [
+            82
+        ],
+        "price_diff_day_max_min": [
+            3.0,
+            0,
+            2.65,
+            1.7,
+            8.0,
+            3.0,
+            2.9
+        ],
+        "price_diff_max_min": 14.6,
+        "price_max": 90.8,
+        "price_min": 76.2,
+        "priority_buy": 1,
+        "priority_sell": 0,
+        "quantity": 11,
+        "tradingsymbol": "EDELWEISS"
+    },
+    {
+        "average_price": 500,
+        "count_max_price": 7,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-17 09:15:01.614026",
+        "datetime_min_price": "2021-03-17 14:25:02.048396",
+        "last_price": 477,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 485.65,
+        "price_day_max_list": [
+            485.65
+        ],
+        "price_day_min": 477,
+        "price_day_min_list": [
+            477
+        ],
+        "price_diff_day_max_min": [
+            9.3,
+            0,
+            17.65,
+            23.25,
+            13.5,
+            12.5,
+            8.65
+        ],
+        "price_diff_max_min": 24.15,
+        "price_max": 494.3,
+        "price_min": 470.15,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "EMAMILTD"
+    },
+    {
+        "average_price": 214.45,
+        "count_max_price": 2,
+        "count_min_price": 30,
+        "datetime_max_price": "2021-03-12 10:30:01.287778",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 189.3,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 190.2,
+        "price_day_max_list": [
+            190.2
+        ],
+        "price_day_min": 189.3,
+        "price_day_min_list": [
+            189.3
+        ],
+        "price_diff_day_max_min": [
+            2.7,
+            0,
+            6.4,
+            8.0,
+            5.25,
+            1.85,
+            0.9
+        ],
+        "price_diff_max_min": 21.9,
+        "price_max": 205.05,
+        "price_min": 183.15,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "EXIDEIND"
+    },
+    {
+        "average_price": 82,
+        "count_max_price": 2,
+        "count_min_price": 16,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 78.2,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 78.65,
+        "price_day_max_list": [
+            78.65
+        ],
+        "price_day_min": 77.65,
+        "price_day_min_list": [
+            77.65
+        ],
+        "price_diff_day_max_min": [
+            1.55,
+            0,
+            2.35,
+            4.75,
+            4.6,
+            1.25,
+            1.0
+        ],
+        "price_diff_max_min": 12.9,
+        "price_max": 87.4,
+        "price_min": 74.5,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 5,
+        "tradingsymbol": "FEDERALBNK"
+    },
+    {
+        "average_price": 659.95,
+        "count_max_price": 2,
+        "count_min_price": 13,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 613,
+        "ltp_datetime": "2021-03-22 15:30:01.521492",
+        "price_day_max": 626.3,
+        "price_day_min": 608.75,
+        "price_diff_day_max_min": [
+            10.95,
+            17.5,
+            17.55
+        ],
+        "price_diff_max_min": 53.75,
+        "price_max": 657.8,
+        "price_min": 604.05,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "FINPIPE"
+    },
+    {
+        "average_price": 498.95,
+        "count_max_price": 7,
+        "count_min_price": 10,
+        "datetime_max_price": "2021-03-22 14:50:01.661874",
+        "datetime_min_price": "2021-03-15 13:25:02.016361",
+        "last_price": 490.95,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 495,
+        "price_day_max_list": [
+            495
+        ],
+        "price_day_min": 490.9,
+        "price_day_min_list": [
+            490.9
+        ],
+        "price_diff_day_max_min": [
+            4.6,
+            0,
+            4.85,
+            9.6,
+            12.9,
+            7.65,
+            4.1
+        ],
+        "price_diff_max_min": 18.9,
+        "price_max": 496,
+        "price_min": 477.1,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "GODREJAGRO"
+    },
+    {
+        "average_price": 749.5,
+        "count_max_price": 2,
+        "count_min_price": 29,
+        "datetime_max_price": "2021-03-12 11:30:02.185211",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 691,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 699.5,
+        "price_day_max_list": [
+            699.5
+        ],
+        "price_day_min": 690,
+        "price_day_min_list": [
+            690
+        ],
+        "price_diff_day_max_min": [
+            8.4,
+            0,
+            7.45,
+            8.3,
+            29.35,
+            21.3,
+            9.5
+        ],
+        "price_diff_max_min": 56.45,
+        "price_max": 703.5,
+        "price_min": 647.05,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "GODREJCP"
+    },
+    {
+        "average_price": 39.39,
+        "count_max_price": 13,
+        "count_min_price": 12,
+        "datetime_max_price": "2021-03-18 12:15:02.190506",
+        "datetime_min_price": "2021-03-12 14:50:02.120770",
+        "last_price": 38.98,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 39.03,
+        "price_day_max_list": [
+            39.03
+        ],
+        "price_day_min": 38.9,
+        "price_day_min_list": [
+            38.9
+        ],
+        "price_diff_day_max_min": [
+            0.22,
+            0,
+            0.08,
+            0.37,
+            0.25,
+            0.34,
+            0.13
+        ],
+        "price_diff_max_min": 0.87,
+        "price_max": 39.47,
+        "price_min": 38.6,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 6,
+        "tradingsymbol": "GOLDBEES"
+    },
+    {
+        "average_price": 335.55,
+        "count_max_price": 4,
+        "count_min_price": 26,
+        "datetime_max_price": "2021-03-12 10:10:02.616298",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 318.7,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 318.7,
+        "price_day_max_list": [
+            318.7
+        ],
+        "price_day_min": 310.65,
+        "price_day_min_list": [
+            310.65
+        ],
+        "price_diff_day_max_min": [
+            8,
+            0,
+            12.55,
+            21.25,
+            18.95,
+            7.45,
+            8.05
+        ],
+        "price_diff_max_min": 59.7,
+        "price_max": 355.25,
+        "price_min": 295.55,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 10,
+        "tradingsymbol": "GRANULES"
+    },
+    {
+        "average_price": 144.38,
+        "count_max_price": 1,
+        "count_min_price": 39,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:50:01.756793",
+        "last_price": 133.9,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 136.65,
+        "price_day_max_list": [
+            136.65
+        ],
+        "price_day_min": 133.9,
+        "price_day_min_list": [
+            133.9
+        ],
+        "price_diff_day_max_min": [
+            3.6,
+            0,
+            5.9,
+            6.35,
+            13.35,
+            7.1,
+            2.75
+        ],
+        "price_diff_max_min": 29.95,
+        "price_max": 150.6,
+        "price_min": 120.65,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 41,
+        "tradingsymbol": "GREAVESCOT"
+    },
+    {
+        "average_price": 927.35,
+        "count_max_price": 6,
+        "count_min_price": 13,
+        "datetime_max_price": "2021-03-12 12:25:01.488548",
+        "datetime_min_price": "2021-03-15 13:45:01.996196",
+        "last_price": 1071.5,
+        "ltp_datetime": "2021-03-16 20:25:20.696495",
+        "price_day_max": 1075,
+        "price_day_min": 1033.8,
+        "price_diff_day_max_min": [
+            41.2
+        ],
+        "price_diff_max_min": 66.4,
+        "price_max": 1081.4,
+        "price_min": 1015,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 0,
+        "tradingsymbol": "HAL"
+    },
+    {
+        "average_price": 698.2,
+        "count_max_price": 1,
+        "count_min_price": 34,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 683.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 687.4,
+        "price_day_max_list": [
+            687.4
+        ],
+        "price_day_min": 682,
+        "price_day_min_list": [
+            682
+        ],
+        "price_diff_day_max_min": [
+            10.35,
+            0,
+            9.05,
+            19.2,
+            13.4,
+            13.75,
+            5.4
+        ],
+        "price_diff_max_min": 63.95,
+        "price_max": 739.8,
+        "price_min": 675.85,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "HDFCLIFE"
+    },
+    {
+        "average_price": 162.26,
+        "count_max_price": 4,
+        "count_min_price": 15,
+        "datetime_max_price": "2021-03-12 10:30:01.287778",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 157.34,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 157.6,
+        "price_day_max_list": [
+            157.6
+        ],
+        "price_day_min": 155.91,
+        "price_day_min_list": [
+            155.91
+        ],
+        "price_diff_day_max_min": [
+            2.15,
+            0,
+            1.8,
+            3.21,
+            4.02,
+            2.59,
+            1.69
+        ],
+        "price_diff_max_min": 9.07,
+        "price_max": 161.57,
+        "price_min": 152.5,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 30,
+        "tradingsymbol": "HDFCNIFETF"
+    },
+    {
+        "average_price": 347.17,
+        "count_max_price": 3,
+        "count_min_price": 14,
+        "datetime_max_price": "2021-03-12 10:50:01.827943",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 331.8,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 341.25,
+        "price_day_max_list": [
+            341.25
+        ],
+        "price_day_min": 331.8,
+        "price_day_min_list": [
+            331.8
+        ],
+        "price_diff_day_max_min": [
+            8.0,
+            0,
+            7.45,
+            7.85,
+            15.95,
+            9.6,
+            9.45
+        ],
+        "price_diff_max_min": 21.75,
+        "price_max": 342.9,
+        "price_min": 321.15,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 48,
+        "tradingsymbol": "HINDALCO"
+    },
+    {
+        "average_price": 146.72,
+        "count_max_price": 1,
+        "count_min_price": 27,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 130.45,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 130.45,
+        "price_day_max_list": [
+            130.45
+        ],
+        "price_day_min": 125.25,
+        "price_day_min_list": [
+            125.25
+        ],
+        "price_diff_day_max_min": [
+            4.85,
+            0,
+            5.35,
+            7.5,
+            11.5,
+            2.75,
+            5.2
+        ],
+        "price_diff_max_min": 23.1,
+        "price_max": 137.5,
+        "price_min": 114.4,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 20,
+        "tradingsymbol": "HINDCOPPER"
+    },
+    {
+        "average_price": 2250,
+        "count_max_price": 16,
+        "count_min_price": 7,
+        "datetime_max_price": "2021-03-19 15:10:01.997273",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 2312.9,
+        "ltp_datetime": "2021-03-19 15:30:02.123658",
+        "price_day_max": 2313.2,
+        "price_day_min": 2198.55,
+        "price_diff_day_max_min": [
+            30.95,
+            0,
+            21.1,
+            33.7,
+            114.65
+        ],
+        "price_diff_max_min": 114.65,
+        "price_max": 2313.2,
+        "price_min": 2198.55,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 0,
+        "tradingsymbol": "HINDUNILVR"
+    },
+    {
+        "average_price": 357.9,
+        "count_max_price": 4,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-19 09:00:02.498682",
+        "datetime_min_price": "2021-03-15 09:30:01.578051",
+        "last_price": 349,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 354,
+        "price_day_max_list": [
+            354
+        ],
+        "price_day_min": 349,
+        "price_day_min_list": [
+            349
+        ],
+        "price_diff_day_max_min": [
+            5,
+            0,
+            4.84,
+            4.97,
+            13.87,
+            13.05,
+            5
+        ],
+        "price_diff_max_min": 17.75,
+        "price_max": 359.97,
+        "price_min": 342.22,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "HNGSNGBEES"
+    },
+    {
+        "average_price": 218,
+        "count_max_price": 2,
+        "count_min_price": 18,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 211.95,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 215.25,
+        "price_day_max_list": [
+            215.25
+        ],
+        "price_day_min": 211.95,
+        "price_day_min_list": [
+            211.95
+        ],
+        "price_diff_day_max_min": [
+            5.05,
+            0,
+            5.5,
+            6.35,
+            8.35,
+            4.6,
+            3.3
+        ],
+        "price_diff_max_min": 24.6,
+        "price_max": 232.6,
+        "price_min": 208,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 41,
+        "tradingsymbol": "IBULHSGFIN"
+    },
+    {
+        "average_price": 206.8,
+        "count_max_price": 0,
+        "count_min_price": 10,
+        "datetime_max_price": "",
+        "datetime_min_price": "2021-03-19 09:50:01.756793",
+        "last_price": 202,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 204.9,
+        "price_day_max_list": [
+            204.9
+        ],
+        "price_day_min": 202,
+        "price_day_min_list": [
+            202
+        ],
+        "price_diff_day_max_min": [
+            2.05,
+            0,
+            1.85,
+            5.11,
+            4,
+            4.1,
+            2.9
+        ],
+        "price_diff_max_min": 12,
+        "price_max": 210,
+        "price_min": 198,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 3,
+        "tradingsymbol": "ICICI500"
+    },
+    {
+        "average_price": 36.35,
+        "count_max_price": 2,
+        "count_min_price": 16,
+        "datetime_max_price": "2021-03-12 09:35:01.465532",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 36.11,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 36.82,
+        "price_day_max_list": [
+            36.82
+        ],
+        "price_day_min": 36.11,
+        "price_day_min_list": [
+            36.11
+        ],
+        "price_diff_day_max_min": [
+            0.43,
+            0,
+            0.89,
+            0.86,
+            1.32,
+            0.4,
+            0.71
+        ],
+        "price_diff_max_min": 2.79,
+        "price_max": 38.4,
+        "price_min": 35.61,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ICICIB22"
+    },
+    {
+        "average_price": 621.07,
+        "count_max_price": 2,
+        "count_min_price": 21,
+        "datetime_max_price": "2021-03-12 09:35:01.465532",
+        "datetime_min_price": "2021-03-22 13:35:01.408133",
+        "last_price": 586,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 587.3,
+        "price_day_max_list": [
+            587.3
+        ],
+        "price_day_min": 576,
+        "price_day_min_list": [
+            576
+        ],
+        "price_diff_day_max_min": [
+            11.85,
+            0,
+            15.5,
+            22.0,
+            16.2,
+            12.9,
+            11.3
+        ],
+        "price_diff_max_min": 64.35,
+        "price_max": 634.4,
+        "price_min": 570.05,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 48,
+        "tradingsymbol": "ICICIBANK"
+    },
+    {
+        "average_price": 1481,
+        "count_max_price": 5,
+        "count_min_price": 21,
+        "datetime_max_price": "2021-03-16 10:40:01.584369",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 1436.8,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 1446.15,
+        "price_day_max_list": [
+            1446.15
+        ],
+        "price_day_min": 1434.05,
+        "price_day_min_list": [
+            1434.05
+        ],
+        "price_diff_day_max_min": [
+            30.85,
+            0,
+            20.75,
+            46.05,
+            34.15,
+            26.05,
+            12.1
+        ],
+        "price_diff_max_min": 102.6,
+        "price_max": 1507,
+        "price_min": 1404.4,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ICICIGI"
+    },
+    {
+        "average_price": 119.76,
+        "count_max_price": 4,
+        "count_min_price": 18,
+        "datetime_max_price": "2021-03-12 11:15:00.788999",
+        "datetime_min_price": "2021-03-19 10:20:02.126185",
+        "last_price": 118.5,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 118.68,
+        "price_day_max_list": [
+            118.68
+        ],
+        "price_day_min": 117.76,
+        "price_day_min_list": [
+            117.76
+        ],
+        "price_diff_day_max_min": [
+            1.06,
+            1.39,
+            3.75,
+            3.41,
+            1.68,
+            0.92
+        ],
+        "price_diff_max_min": 5.58,
+        "price_max": 120.1,
+        "price_min": 114.52,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ICICILOVOL"
+    },
+    {
+        "average_price": 167.85,
+        "count_max_price": 1,
+        "count_min_price": 15,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-19 10:55:00.710770",
+        "last_price": 161.25,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 162,
+        "price_day_max_list": [
+            162
+        ],
+        "price_day_min": 160.5,
+        "price_day_min_list": [
+            160.5
+        ],
+        "price_diff_day_max_min": [
+            1.6,
+            3.09,
+            3.4,
+            7.88,
+            5.76,
+            1.5
+        ],
+        "price_diff_max_min": 11.73,
+        "price_max": 167.85,
+        "price_min": 156.12,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 21,
+        "tradingsymbol": "ICICINF100"
+    },
+    {
+        "average_price": 77.2,
+        "count_max_price": 4,
+        "count_min_price": 9,
+        "datetime_max_price": "2021-03-12 10:10:02.616298",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 78.39,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 78.76,
+        "price_day_max_list": [
+            78.76
+        ],
+        "price_day_min": 78.17,
+        "price_day_min_list": [
+            78.17
+        ],
+        "price_diff_day_max_min": [
+            0.77,
+            1.28,
+            2.5,
+            2.24,
+            1.29,
+            0.59
+        ],
+        "price_diff_max_min": 3.28,
+        "price_max": 78.78,
+        "price_min": 75.5,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ICICINV20"
+    },
+    {
+        "average_price": 11.07,
+        "count_max_price": 3,
+        "count_min_price": 10,
+        "datetime_max_price": "2021-03-12 10:10:02.616298",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 10.1,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 10.13,
+        "price_day_max_list": [
+            10.13
+        ],
+        "price_day_min": 9.92,
+        "price_day_min_list": [
+            9.92
+        ],
+        "price_diff_day_max_min": [
+            0.31,
+            0.2,
+            0.45,
+            0.35,
+            0.45,
+            0.21
+        ],
+        "price_diff_max_min": 0.97,
+        "price_max": 10.55,
+        "price_min": 9.58,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1001,
+        "tradingsymbol": "IDEA"
+    },
+    {
+        "average_price": 50,
+        "count_max_price": 3,
+        "count_min_price": 23,
+        "datetime_max_price": "2021-03-12 09:50:01.738506",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 61.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 61.35,
+        "price_day_max_list": [
+            61.35
+        ],
+        "price_day_min": 59.75,
+        "price_day_min_list": [
+            59.75
+        ],
+        "price_diff_day_max_min": [
+            1.2,
+            1.95,
+            3.4,
+            4.05,
+            1.85,
+            1.6
+        ],
+        "price_diff_max_min": 11.5,
+        "price_max": 67.9,
+        "price_min": 56.4,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "IDFCFIRSTB"
+    },
+    {
+        "average_price": 16.8,
+        "count_max_price": 1,
+        "count_min_price": 19,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 16.55,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 16.55,
+        "price_day_max_list": [
+            16.55
+        ],
+        "price_day_min": 15.5,
+        "price_day_min_list": [
+            15.5
+        ],
+        "price_diff_day_max_min": [
+            0.7,
+            0.55,
+            1.3,
+            1.2,
+            0.65,
+            1.05
+        ],
+        "price_diff_max_min": 3.5,
+        "price_max": 18.05,
+        "price_min": 14.55,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 601,
+        "tradingsymbol": "IOB"
+    },
+    {
+        "average_price": 410,
+        "count_max_price": 11,
+        "count_min_price": 5,
+        "datetime_max_price": "2021-03-16 12:40:02.171822",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 411.55,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 418.65,
+        "price_day_max_list": [
+            418.65
+        ],
+        "price_day_min": 411.55,
+        "price_day_min_list": [
+            411.55
+        ],
+        "price_diff_day_max_min": [
+            10.25,
+            9.1,
+            5.25,
+            12,
+            11.35,
+            7.1
+        ],
+        "price_diff_max_min": 22,
+        "price_max": 422,
+        "price_min": 400,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ISEC"
+    },
+    {
+        "average_price": 226.4,
+        "count_max_price": 31,
+        "count_min_price": 5,
+        "datetime_max_price": "2021-03-23 10:05:00.848167",
+        "datetime_min_price": "2021-03-15 12:35:01.181384",
+        "last_price": 222.05,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 227.25,
+        "price_day_max_list": [
+            227.25
+        ],
+        "price_day_min": 222.05,
+        "price_day_min_list": [
+            222.05
+        ],
+        "price_diff_day_max_min": [
+            5.3,
+            4.8,
+            6,
+            9.95,
+            3.4,
+            5.2
+        ],
+        "price_diff_max_min": 25.25,
+        "price_max": 227.25,
+        "price_min": 202,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ITC"
+    },
+    {
+        "average_price": 129.6,
+        "count_max_price": 1,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 119.6,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 120.6,
+        "price_day_max_list": [
+            120.6
+        ],
+        "price_day_min": 119.6,
+        "price_day_min_list": [
+            119.6
+        ],
+        "price_diff_day_max_min": [
+            3.0,
+            0,
+            3.05,
+            6.15,
+            4.95,
+            2.0,
+            1.0
+        ],
+        "price_diff_max_min": 17,
+        "price_max": 132,
+        "price_min": 115,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ITI"
+    },
+    {
+        "average_price": 153.35,
+        "count_max_price": 3,
+        "count_min_price": 13,
+        "datetime_max_price": "2021-03-17 13:35:01.215790",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 142.95,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 143.55,
+        "price_day_max_list": [
+            143.55
+        ],
+        "price_day_min": 142.5,
+        "price_day_min_list": [
+            142.5
+        ],
+        "price_diff_day_max_min": [
+            1.95,
+            0,
+            4.4,
+            4.2,
+            4.4,
+            1.95,
+            1.05
+        ],
+        "price_diff_max_min": 8.6,
+        "price_max": 150.25,
+        "price_min": 141.65,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "JYOTHYLAB"
+    },
+    {
+        "average_price": 54.9,
+        "count_max_price": 2,
+        "count_min_price": 17,
+        "datetime_max_price": "2021-03-12 10:30:01.287778",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 58.05,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 58.25,
+        "price_day_max_list": [
+            58.25
+        ],
+        "price_day_min": 55.6,
+        "price_day_min_list": [
+            55.6
+        ],
+        "price_diff_day_max_min": [
+            1.85,
+            0,
+            1.7,
+            3.5,
+            3.2,
+            1.15,
+            2.65
+        ],
+        "price_diff_max_min": 8.95,
+        "price_max": 62.85,
+        "price_min": 53.9,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "KARURVYSYA"
+    },
+    {
+        "average_price": 492.05,
+        "count_max_price": 19,
+        "count_min_price": 2,
+        "datetime_max_price": "2021-03-17 14:05:01.617323",
+        "datetime_min_price": "2021-03-15 09:30:01.578051",
+        "last_price": 531,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 541.35,
+        "price_day_max_list": [
+            541.35
+        ],
+        "price_day_min": 529.8,
+        "price_day_min_list": [
+            529.8
+        ],
+        "price_diff_day_max_min": [
+            31.45,
+            0,
+            20.55,
+            40.45,
+            11.65,
+            32.55,
+            11.55
+        ],
+        "price_diff_max_min": 66.55,
+        "price_max": 552.05,
+        "price_min": 485.5,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "KEI"
+    },
+    {
+        "average_price": 161.4,
+        "count_max_price": 2,
+        "count_min_price": 13,
+        "datetime_max_price": "2021-03-17 09:15:01.614026",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 157.05,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 158.5,
+        "price_day_max_list": [
+            158.5
+        ],
+        "price_day_min": 156.4,
+        "price_day_min_list": [
+            156.4
+        ],
+        "price_diff_day_max_min": [
+            12.95,
+            6.9,
+            6.05,
+            8.8,
+            3.65,
+            2.1
+        ],
+        "price_diff_max_min": 21.75,
+        "price_max": 170,
+        "price_min": 148.25,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 10,
+        "tradingsymbol": "KIRLFER"
+    },
+    {
+        "average_price": 166.5,
+        "count_max_price": 19,
+        "count_min_price": 1,
+        "datetime_max_price": "2021-03-23 10:05:00.848167",
+        "datetime_min_price": "2021-03-12 14:30:01.832416",
+        "last_price": 178.4,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 182.2,
+        "price_day_max_list": [
+            182.2
+        ],
+        "price_day_min": 177.9,
+        "price_day_min_list": [
+            177.9
+        ],
+        "price_diff_day_max_min": [
+            12.55,
+            8.75,
+            11.2,
+            11.2,
+            6,
+            4.3
+        ],
+        "price_diff_max_min": 23.65,
+        "price_max": 182.2,
+        "price_min": 158.55,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "KIRLOSENG"
+    },
+    {
+        "average_price": 365.6,
+        "count_max_price": 3,
+        "count_min_price": 20,
+        "datetime_max_price": "2021-03-12 10:10:02.616298",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 345.44,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 345.44,
+        "price_day_max_list": [
+            345.44
+        ],
+        "price_day_min": 339.93,
+        "price_day_min_list": [
+            339.93
+        ],
+        "price_diff_day_max_min": [
+            5.99,
+            0,
+            8.99,
+            11.09,
+            8.01,
+            5.5,
+            5.51
+        ],
+        "price_diff_max_min": 30.63,
+        "price_max": 366.74,
+        "price_min": 336.11,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "KOTAKBKETF"
+    },
+    {
+        "average_price": 242.95,
+        "count_max_price": 3,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-12 09:50:01.738506",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 218,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 218,
+        "price_day_max_list": [
+            218
+        ],
+        "price_day_min": 213.03,
+        "price_day_min_list": [
+            213.03
+        ],
+        "price_diff_day_max_min": [
+            2.45,
+            7.04,
+            15.42,
+            6.84,
+            5.42,
+            4.97
+        ],
+        "price_diff_max_min": 25.75,
+        "price_max": 232.9,
+        "price_min": 207.15,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 13,
+        "tradingsymbol": "KOTAKPSUBK"
+    },
+    {
+        "average_price": 2428.55,
+        "count_max_price": 22,
+        "count_min_price": 3,
+        "datetime_max_price": "2021-03-16 15:30:02.072853",
+        "datetime_min_price": "2021-03-15 09:30:01.578051",
+        "last_price": 2526.45,
+        "ltp_datetime": "2021-03-16 20:25:20.696495",
+        "price_day_max": 2549.95,
+        "price_day_min": 2438.5,
+        "price_diff_day_max_min": [
+            111.45
+        ],
+        "price_diff_max_min": 226.7,
+        "price_max": 2549.95,
+        "price_min": 2323.25,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 0,
+        "tradingsymbol": "LALPATHLAB"
+    },
+    {
+        "average_price": 432.5,
+        "count_max_price": 4,
+        "count_min_price": 10,
+        "datetime_max_price": "2021-03-12 12:05:01.353917",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 417.7,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 422.5,
+        "price_day_max_list": [
+            422.5
+        ],
+        "price_day_min": 417.6,
+        "price_day_min_list": [
+            417.6
+        ],
+        "price_diff_day_max_min": [
+            9.4,
+            11.85,
+            19.8,
+            19.6,
+            11.65,
+            4.9
+        ],
+        "price_diff_max_min": 41.7,
+        "price_max": 439.1,
+        "price_min": 397.4,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 5,
+        "tradingsymbol": "LICHSGFIN"
+    },
+    {
+        "average_price": 24.54,
+        "count_max_price": 3,
+        "count_min_price": 21,
+        "datetime_max_price": "2021-03-12 09:35:01.465532",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 20.95,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 20.95,
+        "price_day_max_list": [
+            20.95
+        ],
+        "price_day_min": 19.35,
+        "price_day_min_list": [
+            19.35
+        ],
+        "price_diff_day_max_min": [
+            0.9,
+            0.8,
+            1.95,
+            1.25,
+            0.7,
+            1.6
+        ],
+        "price_diff_max_min": 5.7,
+        "price_max": 23.9,
+        "price_min": 18.2,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 127,
+        "tradingsymbol": "MAHABANK"
+    },
+    {
+        "average_price": 402.73,
+        "count_max_price": 6,
+        "count_min_price": 19,
+        "datetime_max_price": "2021-03-23 10:05:00.848167",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 400.5,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 402.6,
+        "price_day_max_list": [
+            402.6
+        ],
+        "price_day_min": 399.7,
+        "price_day_min_list": [
+            399.7
+        ],
+        "price_diff_day_max_min": [
+            4.7,
+            5.6,
+            6.5,
+            16.6,
+            7.75,
+            2.9
+        ],
+        "price_diff_max_min": 23.35,
+        "price_max": 402.6,
+        "price_min": 379.25,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 11,
+        "tradingsymbol": "MARICO"
+    },
+    {
+        "average_price": 7495.45,
+        "count_max_price": 1,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 7166,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 7210,
+        "price_day_max_list": [
+            7210
+        ],
+        "price_day_min": 7166,
+        "price_day_min_list": [
+            7166
+        ],
+        "price_diff_day_max_min": [
+            71.8,
+            90.1,
+            126.5,
+            193.6,
+            73.95,
+            44
+        ],
+        "price_diff_max_min": 381.05,
+        "price_max": 7301.45,
+        "price_min": 6920.4,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MARUTI"
+    },
+    {
+        "average_price": 569.75,
+        "count_max_price": 11,
+        "count_min_price": 8,
+        "datetime_max_price": "2021-03-22 09:50:01.650195",
+        "datetime_min_price": "2021-03-15 13:05:02.542378",
+        "last_price": 551.75,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 563.9,
+        "price_day_max_list": [
+            563.9
+        ],
+        "price_day_min": 551.75,
+        "price_day_min_list": [
+            551.75
+        ],
+        "price_diff_day_max_min": [
+            20.7,
+            9.8,
+            17.5,
+            43.95,
+            26.05,
+            12.15
+        ],
+        "price_diff_max_min": 57.5,
+        "price_max": 579.75,
+        "price_min": 522.25,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MINDAIND"
+    },
+    {
+        "average_price": 281.85,
+        "count_max_price": 2,
+        "count_min_price": 7,
+        "datetime_max_price": "2021-03-12 11:30:02.185211",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 303.95,
+        "ltp_datetime": "2021-03-19 15:30:02.123658",
+        "price_day_max": 327.45,
+        "price_day_min": 299,
+        "price_diff_day_max_min": [
+            1.9,
+            0,
+            15.6,
+            28.45
+        ],
+        "price_diff_max_min": 31.95,
+        "price_max": 330.95,
+        "price_min": 299,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MSTC"
+    },
+    {
+        "average_price": 985.5,
+        "count_max_price": 11,
+        "count_min_price": 6,
+        "datetime_max_price": "2021-03-18 11:55:02.132120",
+        "datetime_min_price": "2021-03-19 11:10:01.056601",
+        "last_price": 934.99,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 934.99,
+        "price_day_max_list": [
+            934.99
+        ],
+        "price_day_min": 925,
+        "price_day_min_list": [
+            925
+        ],
+        "price_diff_day_max_min": [
+            11.48,
+            0,
+            5.5,
+            13.69,
+            22.42,
+            4.07,
+            9.99
+        ],
+        "price_diff_max_min": 32.22,
+        "price_max": 944.8,
+        "price_min": 912.58,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "N100"
+    },
+    {
+        "average_price": 185.54,
+        "count_max_price": 7,
+        "count_min_price": 3,
+        "datetime_max_price": "2021-03-15 09:30:01.077879",
+        "datetime_min_price": "2021-03-12 12:25:01.488548",
+        "last_price": 181.38,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 181.38,
+        "price_day_max_list": [
+            181.38
+        ],
+        "price_day_min": 175.9,
+        "price_day_min_list": [
+            175.9
+        ],
+        "price_diff_day_max_min": [
+            4.26,
+            0,
+            0.64,
+            0.42,
+            2.33,
+            0,
+            5.48
+        ],
+        "price_diff_max_min": 10.74,
+        "price_max": 184.86,
+        "price_min": 174.12,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "NETF"
+    },
+    {
+        "average_price": 172.5,
+        "count_max_price": 5,
+        "count_min_price": 21,
+        "datetime_max_price": "2021-03-12 10:30:01.287778",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 175.3,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 175.3,
+        "price_day_max_list": [
+            175.3
+        ],
+        "price_day_min": 166.7,
+        "price_day_min_list": [
+            166.7
+        ],
+        "price_diff_day_max_min": [
+            6.75,
+            0,
+            5.25,
+            11.85,
+            14.6,
+            7.05,
+            8.6
+        ],
+        "price_diff_max_min": 29.7,
+        "price_max": 188,
+        "price_min": 158.3,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "NOCIL"
+    },
+    {
+        "average_price": 93,
+        "count_max_price": 1,
+        "count_min_price": 10,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 103.65,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 103.65,
+        "price_day_max_list": [
+            103.65
+        ],
+        "price_day_min": 98.25,
+        "price_day_min_list": [
+            98.25
+        ],
+        "price_diff_day_max_min": [
+            5.55,
+            0,
+            6.4,
+            7.1,
+            4.1,
+            3.3,
+            5.4
+        ],
+        "price_diff_max_min": 12.95,
+        "price_max": 106.95,
+        "price_min": 94,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ORIENTCEM"
+    },
+    {
+        "average_price": 39.51,
+        "count_max_price": 1,
+        "count_min_price": 36,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 38.85,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 38.9,
+        "price_day_max_list": [
+            38.9
+        ],
+        "price_day_min": 38.15,
+        "price_day_min_list": [
+            38.15
+        ],
+        "price_diff_day_max_min": [
+            0.75,
+            0,
+            1.25,
+            2.05,
+            2.3,
+            0.65,
+            0.75
+        ],
+        "price_diff_max_min": 5.35,
+        "price_max": 41.8,
+        "price_min": 36.45,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 55,
+        "tradingsymbol": "PNB"
+    },
+    {
+        "average_price": 354,
+        "count_max_price": 3,
+        "count_min_price": 18,
+        "datetime_max_price": "2021-03-12 09:35:01.465532",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 400.5,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 407,
+        "price_day_max_list": [
+            407
+        ],
+        "price_day_min": 389.3,
+        "price_day_min_list": [
+            389.3
+        ],
+        "price_diff_day_max_min": [
+            15.6,
+            0,
+            30.1,
+            12.95,
+            35.3,
+            8.7,
+            17.7
+        ],
+        "price_diff_max_min": 71,
+        "price_max": 430,
+        "price_min": 359,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "PNBHOUSING"
+    },
+    {
+        "average_price": 215,
+        "count_max_price": 20,
+        "count_min_price": 0,
+        "datetime_max_price": "2021-03-19 13:45:01.894191",
+        "datetime_min_price": "",
+        "last_price": 219,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 221.8,
+        "price_day_max_list": [
+            221.8
+        ],
+        "price_day_min": 219,
+        "price_day_min_list": [
+            219
+        ],
+        "price_diff_day_max_min": [
+            3.85,
+            0,
+            2.75,
+            3.05,
+            10.9,
+            5.15,
+            2.8
+        ],
+        "price_diff_max_min": 15.8,
+        "price_max": 230.95,
+        "price_min": 215.15,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "POWERGRID"
+    },
+    {
+        "average_price": 26.8,
+        "count_max_price": 3,
+        "count_min_price": 25,
+        "datetime_max_price": "2021-03-12 09:50:01.738506",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 24.24,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 24.5,
+        "price_day_max_list": [
+            24.5
+        ],
+        "price_day_min": 23.94,
+        "price_day_min_list": [
+            23.94
+        ],
+        "price_diff_day_max_min": [
+            0.31,
+            0,
+            0.74,
+            1.2,
+            1.18,
+            0.44,
+            0.56
+        ],
+        "price_diff_max_min": 3.18,
+        "price_max": 25.9,
+        "price_min": 22.72,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 24,
+        "tradingsymbol": "PSUBNKBEES"
+    },
+    {
+        "average_price": 939,
+        "count_max_price": 3,
+        "count_min_price": 25,
+        "datetime_max_price": "2021-03-12 10:10:02.616298",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 982,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 987,
+        "price_day_max_list": [
+            987
+        ],
+        "price_day_min": 973.5,
+        "price_day_min_list": [
+            973.5
+        ],
+        "price_diff_day_max_min": [
+            18.75,
+            47.05,
+            34,
+            43.1,
+            26.8,
+            13.5
+        ],
+        "price_diff_max_min": 108.05,
+        "price_max": 1028.8,
+        "price_min": 920.75,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "RAMCOCEM"
+    },
+    {
+        "average_price": 333.95,
+        "count_max_price": 1,
+        "count_min_price": 33,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 349.8,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 350.05,
+        "price_day_max_list": [
+            350.05
+        ],
+        "price_day_min": 346.7,
+        "price_day_min_list": [
+            346.7
+        ],
+        "price_diff_day_max_min": [
+            4.55,
+            0,
+            13.95,
+            20.15,
+            15.2,
+            6.7,
+            3.35
+        ],
+        "price_diff_max_min": 58.05,
+        "price_max": 385.55,
+        "price_min": 327.5,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "RAYMOND"
+    },
+    {
+        "average_price": 1054.5,
+        "count_max_price": 2,
+        "count_min_price": 24,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-23 15:30:02.154939",
+        "last_price": 958.25,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 978.5,
+        "price_day_max_list": [
+            978.5
+        ],
+        "price_day_min": 958.25,
+        "price_day_min_list": [
+            958.25
+        ],
+        "price_diff_day_max_min": [
+            41.65,
+            0,
+            22,
+            13.3,
+            31.85,
+            13.55,
+            20.25
+        ],
+        "price_diff_max_min": 84.85,
+        "price_max": 1043.1,
+        "price_min": 958.25,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "SBICARD"
+    },
+    {
+        "average_price": 193.89,
+        "count_max_price": 5,
+        "count_min_price": 13,
+        "datetime_max_price": "2021-03-12 10:50:01.827943",
+        "datetime_min_price": "2021-03-22 14:50:01.661874",
+        "last_price": 183.39,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 183.4,
+        "price_day_max_list": [
+            183.4
+        ],
+        "price_day_min": 181.21,
+        "price_day_min_list": [
+            181.21
+        ],
+        "price_diff_day_max_min": [
+            6.35,
+            0,
+            4.78,
+            8,
+            5.77,
+            4.2,
+            2.19
+        ],
+        "price_diff_max_min": 15.79,
+        "price_max": 194.79,
+        "price_min": 179,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "SBIETFPB"
+    },
+    {
+        "average_price": 130.06,
+        "count_max_price": 1,
+        "count_min_price": 12,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 126.98,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 126.98,
+        "price_day_max_list": [
+            126.98
+        ],
+        "price_day_min": 126.16,
+        "price_day_min_list": [
+            126.16
+        ],
+        "price_diff_day_max_min": [
+            1.75,
+            0,
+            1.59,
+            2.24,
+            3.99,
+            1.73,
+            0.82
+        ],
+        "price_diff_max_min": 5.87,
+        "price_max": 128.88,
+        "price_min": 123.01,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "SBIETFQLTY"
+    },
+    {
+        "average_price": 389.5,
+        "count_max_price": 2,
+        "count_min_price": 20,
+        "datetime_max_price": "2021-03-12 09:35:01.465532",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 372.25,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 373.55,
+        "price_day_max_list": [
+            373.55
+        ],
+        "price_day_min": 367.95,
+        "price_day_min_list": [
+            367.95
+        ],
+        "price_diff_day_max_min": [
+            6.15,
+            0,
+            10.5,
+            12.75,
+            14.4,
+            7.4,
+            5.6
+        ],
+        "price_diff_max_min": 35.15,
+        "price_max": 392.85,
+        "price_min": 357.7,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "SBIN"
+    },
+    {
+        "average_price": 157.62,
+        "count_max_price": 1,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 151.5,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 152.12,
+        "price_day_max_list": [
+            152.12
+        ],
+        "price_day_min": 150.91,
+        "price_day_min_list": [
+            150.91
+        ],
+        "price_diff_day_max_min": [
+            1.44,
+            0,
+            0.98,
+            4.16,
+            3.76,
+            1.22,
+            1.21
+        ],
+        "price_diff_max_min": 10.4,
+        "price_max": 157.5,
+        "price_min": 147.1,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "SETFNIF50"
+    },
+    {
+        "average_price": 87.9,
+        "count_max_price": 1,
+        "count_min_price": 20,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 74.6,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 76.45,
+        "price_day_max_list": [
+            76.45
+        ],
+        "price_day_min": 74.6,
+        "price_day_min_list": [
+            74.6
+        ],
+        "price_diff_day_max_min": [
+            1.9,
+            0,
+            3.55,
+            3.55,
+            5.15,
+            4.1,
+            1.85
+        ],
+        "price_diff_max_min": 13.75,
+        "price_max": 83.95,
+        "price_min": 70.2,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "SPICEJET"
+    },
+    {
+        "average_price": 605,
+        "count_max_price": 5,
+        "count_min_price": 31,
+        "datetime_max_price": "2021-03-12 11:50:01.021349",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 518,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 520,
+        "price_day_max_list": [
+            520
+        ],
+        "price_day_min": 498.65,
+        "price_day_min_list": [
+            498.65
+        ],
+        "price_diff_day_max_min": [
+            10.95,
+            0,
+            14.6,
+            32.05,
+            22.85,
+            13.35,
+            21.35
+        ],
+        "price_diff_max_min": 64.2,
+        "price_max": 554.75,
+        "price_min": 490.55,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "SYNGENE"
+    },
+    {
+        "average_price": 556.4,
+        "count_max_price": 4,
+        "count_min_price": 21,
+        "datetime_max_price": "2021-03-12 09:50:01.738506",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 762.75,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 772,
+        "price_day_max_list": [
+            772
+        ],
+        "price_day_min": 760.3,
+        "price_day_min_list": [
+            760.3
+        ],
+        "price_diff_day_max_min": [
+            10.75,
+            0,
+            33.85,
+            40.05,
+            61.65,
+            13.05,
+            11.7
+        ],
+        "price_diff_max_min": 99.95,
+        "price_max": 791.3,
+        "price_min": 691.35,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "TATACHEM"
+    },
+    {
+        "average_price": 1211.75,
+        "count_max_price": 6,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-12 11:50:01.021349",
+        "datetime_min_price": "2021-03-23 15:30:02.154939",
+        "last_price": 1110,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 1138,
+        "price_day_max_list": [
+            1138
+        ],
+        "price_day_min": 1110,
+        "price_day_min_list": [
+            1110
+        ],
+        "price_diff_day_max_min": [
+            74.95,
+            0,
+            50.6,
+            20.2,
+            31.05,
+            35.65,
+            28
+        ],
+        "price_diff_max_min": 214.6,
+        "price_max": 1324.6,
+        "price_min": 1110,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "TATACOMM"
+    },
+    {
+        "average_price": 598,
+        "count_max_price": 9,
+        "count_min_price": 23,
+        "datetime_max_price": "2021-03-23 14:10:02.238622",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 633.5,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 639.25,
+        "price_day_max_list": [
+            639.25
+        ],
+        "price_day_min": 629.55,
+        "price_day_min_list": [
+            629.55
+        ],
+        "price_diff_day_max_min": [
+            7.9,
+            0,
+            7.6,
+            14.25,
+            27.65,
+            20.85,
+            9.7
+        ],
+        "price_diff_max_min": 62.5,
+        "price_max": 639.25,
+        "price_min": 576.75,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "TATACONSUM"
+    },
+    {
+        "average_price": 320.71,
+        "count_max_price": 1,
+        "count_min_price": 15,
+        "datetime_max_price": "2021-03-12 09:10:01.518736",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 306.9,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 311.35,
+        "price_day_max_list": [
+            311.35
+        ],
+        "price_day_min": 306.15,
+        "price_day_min_list": [
+            306.15
+        ],
+        "price_diff_day_max_min": [
+            4.15,
+            0,
+            12.85,
+            11.4,
+            17.95,
+            6.05,
+            5.2
+        ],
+        "price_diff_max_min": 32.7,
+        "price_max": 325.05,
+        "price_min": 292.35,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 74,
+        "tradingsymbol": "TATAMOTORS"
+    },
+    {
+        "average_price": 759,
+        "count_max_price": 8,
+        "count_min_price": 13,
+        "datetime_max_price": "2021-03-23 10:05:00.848167",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 740.05,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 746.95,
+        "price_day_max_list": [
+            746.95
+        ],
+        "price_day_min": 736.25,
+        "price_day_min_list": [
+            736.25
+        ],
+        "price_diff_day_max_min": [
+            6.1,
+            0,
+            19.65,
+            18.6,
+            51.45,
+            17.9,
+            10.7
+        ],
+        "price_diff_max_min": 63.85,
+        "price_max": 746.95,
+        "price_min": 683.1,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "TATASTEEL"
+    },
+    {
+        "average_price": 3157.78,
+        "count_max_price": 15,
+        "count_min_price": 8,
+        "datetime_max_price": "2021-03-23 13:00:01.897436",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 3142,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 3165.55,
+        "price_day_max_list": [
+            3165.55
+        ],
+        "price_day_min": 3132.8,
+        "price_day_min_list": [
+            3132.8
+        ],
+        "price_diff_day_max_min": [
+            47.15,
+            0,
+            44.35,
+            109.2,
+            79.1,
+            88.05,
+            32.75
+        ],
+        "price_diff_max_min": 157.3,
+        "price_max": 3165.55,
+        "price_min": 3008.25,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "TCS"
+    },
+    {
+        "average_price": 614.45,
+        "count_max_price": 2,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-15 09:15:00.985319",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 615.9,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 618.8,
+        "price_day_max_list": [
+            618.8
+        ],
+        "price_day_min": 610,
+        "price_day_min_list": [
+            610
+        ],
+        "price_diff_day_max_min": [
+            19,
+            0,
+            14.35,
+            11.75,
+            33.5,
+            8.15,
+            8.8
+        ],
+        "price_diff_max_min": 50.05,
+        "price_max": 630,
+        "price_min": 579.95,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "THANGAMAYL"
+    },
+    {
+        "average_price": 640,
+        "count_max_price": 1,
+        "count_min_price": 21,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 579.5,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 581.55,
+        "price_day_max_list": [
+            581.55
+        ],
+        "price_day_min": 577.3,
+        "price_day_min_list": [
+            577.3
+        ],
+        "price_diff_day_max_min": [
+            7.65,
+            0,
+            15.3,
+            20.1,
+            23.25,
+            7.95,
+            4.25
+        ],
+        "price_diff_max_min": 44.0,
+        "price_max": 606.2,
+        "price_min": 562.2,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "TVSMOTOR"
+    },
+    {
+        "average_price": 1257.15,
+        "count_max_price": 14,
+        "count_min_price": 13,
+        "datetime_max_price": "2021-03-23 15:10:02.032486",
+        "datetime_min_price": "2021-03-19 09:20:02.007714",
+        "last_price": 1272.1,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 1272.5,
+        "price_day_max_list": [
+            1272.5
+        ],
+        "price_day_min": 1249,
+        "price_day_min_list": [
+            1249
+        ],
+        "price_diff_day_max_min": [
+            25.75,
+            0,
+            42.7,
+            26.3,
+            50.75,
+            39.9,
+            23.5
+        ],
+        "price_diff_max_min": 104.65,
+        "price_max": 1272.5,
+        "price_min": 1167.85,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "UBL"
+    },
+    {
+        "average_price": 33.5,
+        "count_max_price": 3,
+        "count_min_price": 20,
+        "datetime_max_price": "2021-03-12 10:10:02.616298",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 36.15,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 36.15,
+        "price_day_max_list": [
+            36.15
+        ],
+        "price_day_min": 34.6,
+        "price_day_min_list": [
+            34.6
+        ],
+        "price_diff_day_max_min": [
+            1,
+            0,
+            1.25,
+            1.2,
+            1.85,
+            1.0,
+            1.55
+        ],
+        "price_diff_max_min": 4.75,
+        "price_max": 38.3,
+        "price_min": 33.55,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "UNIONBANK"
+    },
+    {
+        "average_price": 578,
+        "count_max_price": 4,
+        "count_min_price": 8,
+        "datetime_max_price": "2021-03-23 10:05:00.848167",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 632.7,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 638.25,
+        "price_day_max_list": [
+            638.25
+        ],
+        "price_day_min": 631.85,
+        "price_day_min_list": [
+            631.85
+        ],
+        "price_diff_day_max_min": [
+            14.75,
+            0,
+            18.7,
+            18.35,
+            41.15,
+            15.3,
+            6.4
+        ],
+        "price_diff_max_min": 50.55,
+        "price_max": 638.25,
+        "price_min": 587.7,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "UPL"
+    },
+    {
+        "average_price": 36.6,
+        "count_max_price": 0,
+        "count_min_price": 17,
+        "datetime_max_price": "",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 34.02,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 34.18,
+        "price_day_max_list": [
+            34.18
+        ],
+        "price_day_min": 33.66,
+        "price_day_min_list": [
+            33.66
+        ],
+        "price_diff_day_max_min": [
+            0.72,
+            0,
+            0.85,
+            1.74,
+            1.6,
+            1.07,
+            0.52
+        ],
+        "price_diff_max_min": 3.47,
+        "price_max": 36.48,
+        "price_min": 33.01,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 100,
+        "tradingsymbol": "UTIBANKETF"
+    },
+    {
+        "average_price": 42.9,
+        "count_max_price": 1,
+        "count_min_price": 5,
+        "datetime_max_price": "2021-03-12 09:20:00.981450",
+        "datetime_min_price": "2021-03-23 10:30:02.532889",
+        "last_price": 40.45,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 40.45,
+        "price_day_max_list": [
+            40.45
+        ],
+        "price_day_min": 38.85,
+        "price_day_min_list": [
+            38.85
+        ],
+        "price_diff_day_max_min": [
+            1.76,
+            0,
+            1.19,
+            1.66,
+            1,
+            0.82,
+            1.6
+        ],
+        "price_diff_max_min": 2.65,
+        "price_max": 41.5,
+        "price_min": 38.85,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 100,
+        "tradingsymbol": "UTISXN50"
+    },
+    {
+        "average_price": 419.95,
+        "count_max_price": 3,
+        "count_min_price": 11,
+        "datetime_max_price": "2021-03-16 11:15:01.477267",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 415.25,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 418.35,
+        "price_day_max_list": [
+            418.35
+        ],
+        "price_day_min": 413.55,
+        "price_day_min_list": [
+            413.55
+        ],
+        "price_diff_day_max_min": [
+            7.1,
+            0,
+            15.1,
+            13.35,
+            12.7,
+            3.45,
+            4.8
+        ],
+        "price_diff_max_min": 34.45,
+        "price_max": 434.2,
+        "price_min": 399.75,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "WIPRO"
+    },
+    {
+        "average_price": 16.15,
+        "count_max_price": 2,
+        "count_min_price": 21,
+        "datetime_max_price": "2021-03-12 11:05:02.524057",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 14.85,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 15,
+        "price_day_max_list": [
+            15
+        ],
+        "price_day_min": 14.85,
+        "price_day_min_list": [
+            14.85
+        ],
+        "price_diff_day_max_min": [
+            0.15,
+            0,
+            0.3,
+            0.35,
+            0.65,
+            0.2,
+            0.15
+        ],
+        "price_diff_max_min": 1.85,
+        "price_max": 16.2,
+        "price_min": 14.35,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 100,
+        "tradingsymbol": "YESBANK"
+    },
+    {
+        "average_price": 288.33,
+        "count_max_price": 15,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-16 14:25:01.319899",
+        "datetime_min_price": "2021-03-12 13:40:01.623273",
+        "last_price": 295,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 313.75,
+        "price_day_max_list": [
+            313.75
+        ],
+        "price_day_min": 294.45,
+        "price_day_min_list": [
+            294.45
+        ],
+        "price_diff_day_max_min": [
+            41.45,
+            9.65,
+            16.75,
+            23,
+            6.35,
+            19.3
+        ],
+        "price_diff_max_min": 61.05,
+        "price_max": 341.4,
+        "price_min": 280.35,
+        "priority_buy": 1,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "ZENSARTECH"
+    },
+    {
+        "average_price": 2059,
+        "count_max_price": 4,
+        "count_min_price": 9,
+        "datetime_max_price": "2021-03-23 13:00:01.897436",
+        "datetime_min_price": "2021-03-19 11:40:02.203394",
+        "last_price": 1905,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 1973.6,
+        "price_day_max_list": [
+            1973.6
+        ],
+        "price_day_min": 1881.25,
+        "price_day_min_list": [
+            1881.25
+        ],
+        "price_diff_day_max_min": [
+            18.7,
+            0,
+            34.7,
+            38,
+            63.45,
+            39.6,
+            92.35
+        ],
+        "price_diff_max_min": 162.05,
+        "price_max": 1973.6,
+        "price_min": 1811.55,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 5,
+        "tradingsymbol": "ZYDUSWELL"
+    },
+    {
+        "average_price": 281.85,
+        "count_max_price": 5,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-18 11:55:02.132120",
+        "datetime_min_price": "2021-03-22 09:20:00.735978",
+        "last_price": 326.4,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 333.95,
+        "price_day_max_list": [
+            333.95
+        ],
+        "price_day_min": 326,
+        "price_day_min_list": [
+            326
+        ],
+        "price_diff_day_max_min": [
+            5.45,
+            20.45,
+            12.2,
+            7.95
+        ],
+        "price_diff_max_min": 39.45,
+        "price_max": 341.75,
+        "price_min": 302.3,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MSTCLTD"
+    },
+    {
+        "average_price": 281.85,
+        "count_max_price": 5,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-18 11:55:02.132120",
+        "datetime_min_price": "2021-03-22 09:20:00.735978",
+        "last_price": 326.4,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 333.95,
+        "price_day_max_list": [
+            333.95
+        ],
+        "price_day_min": 326,
+        "price_day_min_list": [
+            326
+        ],
+        "price_diff_day_max_min": [
+            5.45,
+            20.45,
+            12.2,
+            7.95
+        ],
+        "price_diff_max_min": 39.45,
+        "price_max": 341.75,
+        "price_min": 302.3,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MSTCLTD"
+    },
+    {
+        "average_price": 281.85,
+        "count_max_price": 5,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-18 11:55:02.132120",
+        "datetime_min_price": "2021-03-22 09:20:00.735978",
+        "last_price": 326.4,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 333.95,
+        "price_day_max_list": [
+            333.95
+        ],
+        "price_day_min": 326,
+        "price_day_min_list": [
+            326
+        ],
+        "price_diff_day_max_min": [
+            5.45,
+            20.45,
+            12.2,
+            7.95
+        ],
+        "price_diff_max_min": 39.45,
+        "price_max": 341.75,
+        "price_min": 302.3,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MSTCLTD"
+    },
+    {
+        "average_price": 281.85,
+        "count_max_price": 5,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-18 11:55:02.132120",
+        "datetime_min_price": "2021-03-22 09:20:00.735978",
+        "last_price": 326.4,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 333.95,
+        "price_day_max_list": [
+            333.95
+        ],
+        "price_day_min": 326,
+        "price_day_min_list": [
+            326
+        ],
+        "price_diff_day_max_min": [
+            5.45,
+            20.45,
+            12.2,
+            7.95
+        ],
+        "price_diff_max_min": 39.45,
+        "price_max": 341.75,
+        "price_min": 302.3,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MSTCLTD"
+    },
+    {
+        "average_price": 281.85,
+        "count_max_price": 5,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-18 11:55:02.132120",
+        "datetime_min_price": "2021-03-22 09:20:00.735978",
+        "last_price": 326.4,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 333.95,
+        "price_day_max_list": [
+            333.95
+        ],
+        "price_day_min": 326,
+        "price_day_min_list": [
+            326
+        ],
+        "price_diff_day_max_min": [
+            5.45,
+            20.45,
+            12.2,
+            7.95
+        ],
+        "price_diff_max_min": 39.45,
+        "price_max": 341.75,
+        "price_min": 302.3,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MSTCLTD"
+    },
+    {
+        "average_price": 281.85,
+        "count_max_price": 5,
+        "count_min_price": 4,
+        "datetime_max_price": "2021-03-18 11:55:02.132120",
+        "datetime_min_price": "2021-03-22 09:20:00.735978",
+        "last_price": 326.4,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 333.95,
+        "price_day_max_list": [
+            333.95
+        ],
+        "price_day_min": 326,
+        "price_day_min_list": [
+            326
+        ],
+        "price_diff_day_max_min": [
+            5.45,
+            20.45,
+            12.2,
+            7.95
+        ],
+        "price_diff_max_min": 39.45,
+        "price_max": 341.75,
+        "price_min": 302.3,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MSTCLTD"
+    },
+    {
+        "average_price": 406.45,
+        "count_max_price": 4,
+        "count_min_price": 6,
+        "datetime_max_price": "2021-03-17 09:15:01.614026",
+        "datetime_min_price": "2021-03-19 09:50:01.756793",
+        "last_price": 405.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 405.35,
+        "price_day_max_list": [
+            405.35
+        ],
+        "price_day_min": 389.3,
+        "price_day_min_list": [
+            389.3
+        ],
+        "price_diff_day_max_min": [
+            25.9,
+            0,
+            14.15,
+            15.85,
+            12.4,
+            9.35,
+            16.05
+        ],
+        "price_diff_max_min": 34.85,
+        "price_max": 420.65,
+        "price_min": 385.8,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MOLDTKPAC"
+    },
+    {
+        "average_price": 406.45,
+        "count_max_price": 4,
+        "count_min_price": 6,
+        "datetime_max_price": "2021-03-17 09:15:01.614026",
+        "datetime_min_price": "2021-03-19 09:50:01.756793",
+        "last_price": 405.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 405.35,
+        "price_day_max_list": [
+            405.35
+        ],
+        "price_day_min": 389.3,
+        "price_day_min_list": [
+            389.3
+        ],
+        "price_diff_day_max_min": [
+            25.9,
+            0,
+            14.15,
+            15.85,
+            12.4,
+            9.35,
+            16.05
+        ],
+        "price_diff_max_min": 34.85,
+        "price_max": 420.65,
+        "price_min": 385.8,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MOLDTKPAC"
+    },
+    {
+        "average_price": 406.45,
+        "count_max_price": 4,
+        "count_min_price": 6,
+        "datetime_max_price": "2021-03-17 09:15:01.614026",
+        "datetime_min_price": "2021-03-19 09:50:01.756793",
+        "last_price": 405.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 405.35,
+        "price_day_max_list": [
+            405.35
+        ],
+        "price_day_min": 389.3,
+        "price_day_min_list": [
+            389.3
+        ],
+        "price_diff_day_max_min": [
+            25.9,
+            0,
+            14.15,
+            15.85,
+            12.4,
+            9.35,
+            16.05
+        ],
+        "price_diff_max_min": 34.85,
+        "price_max": 420.65,
+        "price_min": 385.8,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MOLDTKPAC"
+    },
+    {
+        "average_price": 406.45,
+        "count_max_price": 4,
+        "count_min_price": 6,
+        "datetime_max_price": "2021-03-17 09:15:01.614026",
+        "datetime_min_price": "2021-03-19 09:50:01.756793",
+        "last_price": 405.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 405.35,
+        "price_day_max_list": [
+            405.35
+        ],
+        "price_day_min": 389.3,
+        "price_day_min_list": [
+            389.3
+        ],
+        "price_diff_day_max_min": [
+            25.9,
+            0,
+            14.15,
+            15.85,
+            12.4,
+            9.35,
+            16.05
+        ],
+        "price_diff_max_min": 34.85,
+        "price_max": 420.65,
+        "price_min": 385.8,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MOLDTKPAC"
+    },
+    {
+        "average_price": 406.45,
+        "count_max_price": 4,
+        "count_min_price": 6,
+        "datetime_max_price": "2021-03-17 09:15:01.614026",
+        "datetime_min_price": "2021-03-19 09:50:01.756793",
+        "last_price": 405.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 405.35,
+        "price_day_max_list": [
+            405.35
+        ],
+        "price_day_min": 389.3,
+        "price_day_min_list": [
+            389.3
+        ],
+        "price_diff_day_max_min": [
+            25.9,
+            0,
+            14.15,
+            15.85,
+            12.4,
+            9.35,
+            16.05
+        ],
+        "price_diff_max_min": 34.85,
+        "price_max": 420.65,
+        "price_min": 385.8,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "MOLDTKPAC"
+    },
+    {
+        "average_price": 104.5,
+        "count_max_price": 1,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-15 09:30:01.578051",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 90.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 91.9,
+        "price_day_max_list": [
+            91.9
+        ],
+        "price_day_min": 89.9,
+        "price_day_min_list": [
+            89.9
+        ],
+        "price_diff_day_max_min": [
+            4.75,
+            0,
+            7.75,
+            4.7,
+            6.8,
+            6.45,
+            2.0
+        ],
+        "price_diff_max_min": 20.6,
+        "price_max": 107.5,
+        "price_min": 86.9,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 20,
+        "tradingsymbol": "IBREALEST"
+    },
+    {
+        "average_price": 104.5,
+        "count_max_price": 1,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-15 09:30:01.578051",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 90.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 91.9,
+        "price_day_max_list": [
+            91.9
+        ],
+        "price_day_min": 89.9,
+        "price_day_min_list": [
+            89.9
+        ],
+        "price_diff_day_max_min": [
+            4.75,
+            0,
+            7.75,
+            4.7,
+            6.8,
+            6.45,
+            2.0
+        ],
+        "price_diff_max_min": 20.6,
+        "price_max": 107.5,
+        "price_min": 86.9,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 20,
+        "tradingsymbol": "IBREALEST"
+    },
+    {
+        "average_price": 104.5,
+        "count_max_price": 1,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-15 09:30:01.578051",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 90.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 91.9,
+        "price_day_max_list": [
+            91.9
+        ],
+        "price_day_min": 89.9,
+        "price_day_min_list": [
+            89.9
+        ],
+        "price_diff_day_max_min": [
+            4.75,
+            0,
+            7.75,
+            4.7,
+            6.8,
+            6.45,
+            2.0
+        ],
+        "price_diff_max_min": 20.6,
+        "price_max": 107.5,
+        "price_min": 86.9,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 20,
+        "tradingsymbol": "IBREALEST"
+    },
+    {
+        "average_price": 104.5,
+        "count_max_price": 1,
+        "count_min_price": 22,
+        "datetime_max_price": "2021-03-15 09:30:01.578051",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 90.35,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 91.9,
+        "price_day_max_list": [
+            91.9
+        ],
+        "price_day_min": 89.9,
+        "price_day_min_list": [
+            89.9
+        ],
+        "price_diff_day_max_min": [
+            4.75,
+            0,
+            7.75,
+            4.7,
+            6.8,
+            6.45,
+            2.0
+        ],
+        "price_diff_max_min": 20.6,
+        "price_max": 107.5,
+        "price_min": 86.9,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 20,
+        "tradingsymbol": "IBREALEST"
+    },
+    {
+        "average_price": 150.5,
+        "count_max_price": 4,
+        "count_min_price": 26,
+        "datetime_max_price": "2021-03-16 09:15:01.991548",
+        "datetime_min_price": "2021-03-19 09:35:01.116251",
+        "last_price": 135.1,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 136.25,
+        "price_day_max_list": [
+            136.25
+        ],
+        "price_day_min": 135.1,
+        "price_day_min_list": [
+            135.1
+        ],
+        "price_diff_day_max_min": [
+            1.3,
+            0,
+            2.7,
+            4.85,
+            6.05,
+            1.2,
+            1.15
+        ],
+        "price_diff_max_min": 13.2,
+        "price_max": 147,
+        "price_min": 133.8,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "COALINDIA"
+    },
+    {
+        "average_price": 131,
+        "count_max_price": 0,
+        "count_min_price": 21,
+        "datetime_max_price": "",
+        "datetime_min_price": "2021-03-19 15:30:02.123658",
+        "last_price": 121.6,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 122,
+        "price_day_max_list": [
+            122
+        ],
+        "price_day_min": 120.5,
+        "price_day_min_list": [
+            120.5
+        ],
+        "price_diff_day_max_min": [
+            1.2,
+            0,
+            2.6,
+            4.2,
+            4.7,
+            1.0,
+            1.5
+        ],
+        "price_diff_max_min": 11.1,
+        "price_max": 129.1,
+        "price_min": 118,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 10,
+        "tradingsymbol": "CASTROLIND"
+    },
+    {
+        "average_price": 599.95,
+        "count_max_price": 5,
+        "count_min_price": 19,
+        "datetime_max_price": "2021-03-15 15:30:01.735565",
+        "datetime_min_price": "2021-03-19 09:50:01.756793",
+        "last_price": 592,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 600,
+        "price_day_max_list": [
+            600
+        ],
+        "price_day_min": 580,
+        "price_day_min_list": [
+            580
+        ],
+        "price_diff_day_max_min": [
+            7.25,
+            0,
+            19.5,
+            24.4,
+            35.6,
+            13.65,
+            20
+        ],
+        "price_diff_max_min": 70,
+        "price_max": 634,
+        "price_min": 564,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 2,
+        "tradingsymbol": "ANUP"
+    },
+    {
+        "average_price": 659.95,
+        "count_max_price": 1,
+        "count_min_price": 20,
+        "datetime_max_price": "2021-03-15 09:30:01.077879",
+        "datetime_min_price": "2021-03-18 14:15:02.557579",
+        "last_price": 614.2,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 615.55,
+        "price_day_max_list": [
+            615.55
+        ],
+        "price_day_min": 610.55,
+        "price_day_min_list": [
+            610.55
+        ],
+        "price_diff_day_max_min": [
+            8.35,
+            0,
+            12.45,
+            18.6,
+            5.0
+        ],
+        "price_diff_max_min": 28.35,
+        "price_max": 638.35,
+        "price_min": 610,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 1,
+        "tradingsymbol": "FINOLEXIND"
+    },
+    {
+        "average_price": 211,
+        "count_max_price": 4,
+        "count_min_price": 11,
+        "datetime_max_price": "2021-03-18 12:15:02.190506",
+        "datetime_min_price": "2021-03-17 15:15:02.432566",
+        "last_price": 207,
+        "ltp_datetime": "2021-03-18 15:30:01.167068",
+        "price_day_max": 214,
+        "price_day_min": 205.5,
+        "price_diff_day_max_min": [
+            0.55,
+            0,
+            6.65,
+            8.5
+        ],
+        "price_diff_max_min": 11.05,
+        "price_max": 214,
+        "price_min": 202.95,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 0,
+        "tradingsymbol": "ZEEL"
+    },
+    {
+        "average_price": 103.85,
+        "count_max_price": 5,
+        "count_min_price": 5,
+        "datetime_max_price": "2021-03-18 10:30:01.170518",
+        "datetime_min_price": "2021-03-17 10:05:01.125599",
+        "last_price": 103,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 105.9,
+        "price_day_max_list": [
+            105.9
+        ],
+        "price_day_min": 101.9,
+        "price_day_min_list": [
+            101.9
+        ],
+        "price_diff_day_max_min": [
+            8.55,
+            0,
+            18.0,
+            7.25,
+            5.45,
+            4.05,
+            4.0
+        ],
+        "price_diff_max_min": 18.1,
+        "price_max": 112.5,
+        "price_min": 94.4,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 4,
+        "tradingsymbol": "BLISSGVS"
+    },
+    {
+        "average_price": 48.44,
+        "count_max_price": 0,
+        "count_min_price": 0,
+        "datetime_max_price": "",
+        "datetime_min_price": "",
+        "last_price": 49,
+        "ltp_datetime": "2021-03-23 15:30:02.154939",
+        "price_day_max": 49,
+        "price_day_max_list": [
+            49
+        ],
+        "price_day_min": 49,
+        "price_day_min_list": [
+            49
+        ],
+        "price_diff_day_max_min": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "price_diff_max_min": 0,
+        "price_max": 49,
+        "price_min": 49,
+        "priority_buy": 0,
+        "priority_sell": 0,
+        "quantity": 4,
+        "tradingsymbol": "NETFSNX150"
+    }
+]

@@ -1,0 +1,19 @@
+{
+	"tradingsymbol": "",
+	"quantity": 0,
+	"average_price": 0,
+	"last_price": 0,
+	"price_max": 0,
+	"price_min": 0,
+	"price_diff_max_min": 0,
+	"count_max_price": 0,
+	"count_min_price": 0,
+	"datetime_max_price": "",
+	"datetime_min_price": "",
+	"ltp_datetime": "",
+	"priority_sell": 0,
+	"priority_buy": 0,
+	"price_day_max": 0,
+	"price_day_min": 0,
+	"price_diff_day_max_min": 0
+}
